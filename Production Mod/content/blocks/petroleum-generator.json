@@ -1,0 +1,22 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Petroleum Generator",
+	"description": "Produces power using petroleum.",
+	"size": 2,
+	"hasPower": true,
+	"powerProduction": 8.33333,
+	"hasItems": true,
+	"itemDuration": 60,
+	"hasLiquids": false,
+	"updateEffect": "pulverize",
+	"consumes": {
+		"item": "petroleum-container"
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 30},
+		{ "item": "metaglass", "amount": 20 },
+		{ "item": "plastic", "amount": 10}
+	],
+	"category": "power",
+	"research": "plastic-forge"
+}

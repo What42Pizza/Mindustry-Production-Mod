@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Oil Distiller",
+	"description": "Distills oil into petroleum.",
+	"outputLiquid": {"liquid": "petroleum", "amount": 10},
+	"outputItem": {"item": "sludge-container", "amount": "5"},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 50,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 60,
+	"updateEffect": "oily",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {
+			"liquid": "oil",
+			"amount": 0.33333
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 25 },
+		{ "item": "graphite", "amount": 25 },
+	],
+	"category": "crafting",
+	"research": "oil-distiller",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

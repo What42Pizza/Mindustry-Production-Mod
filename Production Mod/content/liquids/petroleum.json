@@ -1,0 +1,8 @@
+{
+	"name": "petroleum",
+	"description": "Used for power",
+	"temperature": 0.7,
+	"viscosity": 0.8,
+	"effect": "burning",
+	"color": "c4c04f"
+}
