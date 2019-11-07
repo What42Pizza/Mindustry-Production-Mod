@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "Sand Shifter",
-	"description": "Shifts sand to get small amounts of titanium",
+	"name": "Sand Sifter",
+	"description": "Sifts sand to get small amounts of titanium",
 	"outputItem": {"item": "titanium", "amount": 1},
 	"size": 2,
 	"hasPower": true,
@@ -13,7 +13,7 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 25 }
+				{ "item": "sand", "amount": 50 }
 			]
 		}
 	},
@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 },
 	],
 	"category": "crafting",
-	"research": "sand-shifter",
+	"research": "sand-sifter",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
