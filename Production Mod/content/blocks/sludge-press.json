@@ -16,7 +16,7 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{"item": "sludge-container", "amount": 1}
+				{"item": "sludge-container", "amount": 2}
 			]
 		}
 	},
@@ -24,7 +24,8 @@
 		{ "item": "copper", "amount": 100 },
 		{ "item": "titanium", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
-		{ "item": "graphite", "amount": 25 }
+		{ "item": "graphite", "amount": 25 },
+		{ "item": "plastic", "amount": 25 }
 	],
 	"category": "crafting",
 	"research": "sludge-press",

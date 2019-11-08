@@ -9,7 +9,7 @@
 	"hasItems": true,
 	"itemCapacity": 10,
 	
-	"craftTime": 0.00833333,
+	"craftTime": 12,
 	"updateEffect": "smeltsmoke",
 	
 	"consumes": {

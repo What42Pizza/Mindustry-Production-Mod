@@ -1,0 +1,15 @@
+{
+	"type": "Conveyor",
+	"name": "Plastic conveyor",
+	"description": "This conveyor is slightly faster than titanium, but it is also weaker.",
+	"health": "10",
+	"requirements": [
+		{"item": "plastic", "amount": 3},
+		{"item": "titanium", "amount": 2},
+		{"item": "copper", "amount": 1},
+		{"item": "lead", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.1,
+	"research": "titanium-conveyor"
+}
