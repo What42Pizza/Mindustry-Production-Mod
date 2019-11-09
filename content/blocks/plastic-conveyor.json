@@ -4,8 +4,8 @@
 	"description": "This conveyor is slightly faster than titanium, but it is also weaker.",
 	"health": "10",
 	"requirements": [
-		{"item": "plastic", "amount": 3},
-		{"item": "titanium", "amount": 2},
+		{"item": "plastic", "amount": 2},
+		{"item": "titanium", "amount": 1},
 		{"item": "copper", "amount": 1},
 		{"item": "lead", "amount": 1}
 	],

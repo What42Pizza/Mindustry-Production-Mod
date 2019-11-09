@@ -2,3 +2,5 @@ TODO:
 
 More plastic uses
 Better graphics?
+Fix research
+Finish Plastic Bomber (tweaking and sprites)

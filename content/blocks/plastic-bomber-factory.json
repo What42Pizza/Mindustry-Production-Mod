@@ -1,0 +1,26 @@
+{
+	"name": "Plastic Bomber Factory",
+	"description": "Makes plastic bombing units. These things are very fast but have almost no health. WIP",
+	"type": "UnitFactory",
+	"unitType": "plastic-bomber",
+	"size": 2,
+	"produceTime": 108,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{ "item": "plastic", "amount": 10 }
+				{ "item": "graphite", "amount": 5 }
+			]
+		}
+	},
+	"category": "units",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "plastic", "amount": 50 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "copper", "amount": 25 },
+		{ "item": "lead", "amount": 25 },
+		{ "item": "silicon", "amount": 40 }
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"type": "flyingUnit",
+	"name": "Plastic Bomber",
+	"description": "Plastic bombers are very fast but have almost no health. WIP",
+	"speed": 10,
+	"flying": true,
+	"health": 10,
+	"engineOffset": 5.5,
+	"range": 1,
+	"weapon": {
+		"name": "plastic-bomber-bombbay",
+		"length": 0,
+		"reload": 15,
+		"bullet": {
+			"lifetime": 10,
+			"speed": 10,
+			"damage": 25,
+			"peirce": false,
+			"hitEffect": "blastsmoke",
+			"despawnEffect": "blastsmoke",
+			"shootEffect": "blastsmoke",
+			"smokeEffect": "blastsmoke",
+			"recoil": 0,
+			"knockback": 0,
+			"lightning": 0,
+			"hitSound": "boom",
+			"ignoreRotation": true
+		}
+	}
+}
