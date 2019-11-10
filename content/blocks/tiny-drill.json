@@ -4,7 +4,7 @@
 	"type": "Drill",
 	"size": 1,
 	"tier": 2,
-	"drillTime": 625,
+	"drillTime": 1750,
 	"consumes": {},
 	"requirements": [
 		{ "item": "copper", "amount": 5 }

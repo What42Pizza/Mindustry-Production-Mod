@@ -25,7 +25,7 @@
 		{ "item": "graphite", "amount": 25 },
 	],
 	"category": "crafting",
-	"research": "oil-distiller",
+	"research": "melter",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

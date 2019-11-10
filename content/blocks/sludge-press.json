@@ -28,7 +28,7 @@
 		{ "item": "plastic", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "sludge-press",
+	"research": "plastic-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

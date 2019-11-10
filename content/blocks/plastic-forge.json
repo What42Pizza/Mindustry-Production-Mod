@@ -24,7 +24,7 @@
 		{ "item": "silicon", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "plastic-forge",
+	"research": "oil-distiller",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

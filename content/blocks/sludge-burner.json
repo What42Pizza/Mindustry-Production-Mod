@@ -28,7 +28,7 @@
 		{ "item": "metaglass", "amount": 25 },
 	],
 	"category": "crafting",
-	"research": "sludge-burner",
+	"research": "oil-distiller",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

@@ -22,7 +22,7 @@
 		{ "item": "lead", "amount": 15 },
 	],
 	"category": "crafting",
-	"research": "sand-sifter",
+	"research": "silicon-smelter",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
