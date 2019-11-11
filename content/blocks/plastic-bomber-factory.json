@@ -4,13 +4,13 @@
 	"type": "UnitFactory",
 	"unitType": "plastic-bomber",
 	"size": 2,
-	"produceTime": 108,
+	"produceTime": 180,
 	"consumes": {
 		"power": 0.5,
 		"items": {
 			"items": [
-				{ "item": "plastic", "amount": 10 }
-				{ "item": "graphite", "amount": 5 }
+				{ "item": "plastic", "amount": 10 },
+				{ "item": "titanium", "amount": 5 }
 			]
 		}
 	},
