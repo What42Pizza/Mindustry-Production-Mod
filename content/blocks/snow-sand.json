@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Snow Sand",
+	"itemDrop": "sand",
+	"variants": 3,
+	"playerUnmineable": true
+}

@@ -1,32 +1,32 @@
 {
 	"type": "GenericSmelter",
-	"name": "Titanium Forge",
-	"description": "Creates titanium from lead and graphite.",
-	"outputItem": {"item": "titanium", "amount": "1"},
+	"name": "Steel Forge",
+	"description": "Creates steel from iron and coal.",
+	"outputItem": {"item": "steel", "amount": "2"},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
 	"itemCapacity": 6,
-	"craftTime": 90,
+	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "lead", "amount": 1 },
-				{ "item": "graphite", "amount": 3 }
+				{ "item": "iron", "amount": 2 },
+				{ "item": "coal", "amount": 1 }
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 50 },
+		{ "item": "iron", "amount": 50 },
 		{ "item": "copper", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
 		{ "item": "silicon", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "steel-forge",
+	"research": "silicon-smelter",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

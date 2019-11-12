@@ -10,6 +10,6 @@
 		{"item": "lead", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.1,
+	"speed": 0.12,
 	"research": "titanium-conveyor"
 }

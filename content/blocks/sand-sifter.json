@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Sand Sifter",
-	"description": "Sifts sand to get small amounts of titanium",
+	"description": "Sifts titanium out of large amounts of sand.",
 	"outputItem": {"item": "titanium", "amount": 1},
 	"size": 2,
 	"hasPower": true,
