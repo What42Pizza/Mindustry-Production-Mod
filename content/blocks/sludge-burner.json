@@ -5,13 +5,10 @@
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
-	
 	"hasItems": true,
 	"itemCapacity": 10,
-	
 	"craftTime": 12,
 	"updateEffect": "smeltsmoke",
-	
 	"consumes": {
 		"power": 1.66666,
 		"items": {
@@ -21,11 +18,10 @@
 		}
 	},
 	"outputItem": {"item": "copper", "amount": "0"},
-	
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
-		{ "item": "metaglass", "amount": 25 },
+		{ "item": "metaglass", "amount": 25 }
 	],
 	"category": "crafting",
 	"research": "oil-distiller",
