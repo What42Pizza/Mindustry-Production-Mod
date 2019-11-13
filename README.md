@@ -2,8 +2,8 @@
 This is a mod for the game Mindustry that adds more production. I'm not done with it and I'll most likely add much more.
 
 There are two ways to add this mod to your game.
-Method 1: Find your mods folder and move the folder that this file is in to the mods folder.
-Method 2: Open Mindustry, go to the mods, go to import from github, and enter "What42Pizza/mindustry-production-mod".
+- Method 1: Find your mods folder and move the folder that this file is in to the mods folder.
+- Method 2: Open Mindustry, go to the mods, go to import from github, and enter "What42Pizza/mindustry-production-mod".
 
 
 
@@ -48,7 +48,7 @@ Method 2: Open Mindustry, go to the mods, go to import from github, and enter "W
   - Output: 5 Asphalt
 
 - Asphalt Wall:
-  - Takes: 200 Asphalt
+  - Takes 200 Asphalt
   - Health: 2500
 
 - Petroleum Filler: (used only for petroleum generator)
@@ -56,7 +56,7 @@ Method 2: Open Mindustry, go to the mods, go to import from github, and enter "W
   - Output: 1 Petroleum Container
 
 - Petroleum Generator:
-  - Takes: 1 Pretroleum Container
+  - Takes 1 Pretroleum Container
   - Output: 500 Power / Second
 
 - Plastic Forge:
@@ -64,16 +64,15 @@ Method 2: Open Mindustry, go to the mods, go to import from github, and enter "W
   - Output: 1 Plastic
 
 - Plastic Conveyors:
-  - Takes: 2 Plastic + 1 Titanium
+  - Takes 2 Plastic + 1 Titanium
   - Speed: 18 Items / Second
 
 - Tiny Drill:
-  - Takes: 5 Copper
   - Base Dill Speed: 0.03 Items / Second
   - Size: 1x1
 
 - Plastic Bomber Factory: (WIP DO NOT USE)
-  - Input: 10 Plastic + 5 Titanium
+  - Input 10 Plastic + 5 Titanium
   - Output: Plastic Bomber Unit
 
 
@@ -82,13 +81,13 @@ Method 2: Open Mindustry, go to the mods, go to import from github, and enter "W
 
 #### Items:
 
-- Iron -------------- (mined from ground)
-- Steel               (made by Steel Forge)
-- Sludge Container -- (made by Oil Distiller)
-- Petroleum           (made by Oil Distiller)
+- Iron (mined from ground)
+- Steel (made by Steel Forge)
+- Sludge Container (made by Oil Distiller)
+- Petroleum (made by Oil Distiller)
 - Petroleum Container (made by Petroleum Filler and onyl used for Petroleum Generator)
-- Plastic             (made by Plastic Forge)
-- Asphalt ----------- (made by Asphalt Mixer)
+- Plastic (made by Plastic Forge)
+- Asphalt (made by Asphalt Mixer)
 
 
 
