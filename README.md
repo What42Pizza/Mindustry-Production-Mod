@@ -1,5 +1,5 @@
 # Mindustry-Production-Mod
-![logo](https://raw.githubusercontent.com/What42Pizza/mindustry-production-mod/master/sprites/git/example.png)
+![GitHub Logo](/sprites/git/example.png)
 This is a mod for the game Mindustry that adds more production. I'm not done with it and I'll most likely add much more.
 
 There are two ways to add this mod to your game.
