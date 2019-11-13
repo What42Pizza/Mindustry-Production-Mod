@@ -1,0 +1,14 @@
+{
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "petroleum",
+			"amount": 0.08333
+		},
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 2 }
+			]
+		}
+	}
+}
