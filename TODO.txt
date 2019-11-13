@@ -4,3 +4,5 @@ Plastic as ammo
 Steel as ammo
 Better graphics?
 Finish Plastic Bomber (tweaking and sprites)
+
+VERIFICATION TEST
