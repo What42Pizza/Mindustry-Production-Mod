@@ -1,0 +1,27 @@
+{
+	"name": "Iron Mountain",
+	"description": "This is the only location known to have raw iron.",
+	"loadout": "basicFoundation",
+	"startingItems": [
+		{"item": "copper", "amount": 300},
+		{"item": "lead", "amount": 200}
+	],
+	"conditionWave": 10,
+	"launchPeriod": 10,
+	"requirements": [
+		{
+			"type": "ZoneWave",
+			"zone": "groundZero", 
+			"wave": 30
+		},
+		{
+			"type": "Unlock",
+			"block": "graphite-press"
+		},
+		{
+			"type": "Unlock",
+			"block": "pneumatic-drill"
+		}
+	],
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand"]
+}
