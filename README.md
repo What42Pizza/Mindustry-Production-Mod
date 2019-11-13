@@ -9,10 +9,11 @@ Method 2: Open Mindustry, go to the mods, go to import from github, and enter "W
 
 
 
-Here is everything this mod adds:
-##
+##Here is everything this mod adds:
 
-Blocks:
+
+
+####Blocks:
 
 Sand Sifter:
 	Input: 50 Sand
@@ -79,7 +80,7 @@ Plastic Bomber Factory: (WIP DO NOT USE)
 
 
 
-Items:
+####Items:
 
 Iron -------------- (mined from ground)
 Steel               (made by Steel Forge)
@@ -91,6 +92,6 @@ Asphalt ----------- (made by Asphalt Mixer)
 
 
 
-Units:
+####Units:
 
 Plastic Bomber (WIP DO NOT USE)
