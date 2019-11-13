@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Asphalt Mixer",
 	"description": "Mixes leftover sludge with sand to create asphalt.",
 	"size": 2,
