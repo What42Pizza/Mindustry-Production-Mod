@@ -2,7 +2,6 @@ TODO:
 
 Plastic as ammo
 Steel as ammo
-Tiny pneumatic drill
 Test Iron Mountains
 Better graphics?
 Fix conveyor graphics (something is very wrong with my image editting software)

@@ -1,0 +1,15 @@
+{
+	"name": "Tiny Pneumatic Drill",
+	"description": "A very small pneumatic drill for those hard to reach places.",
+	"type": "Drill",
+	"size": 1,
+	"tier": 3,
+	"drillTime": 1100,
+	"consumes": {},
+	"requirements": [
+		{ "item": "copper", "amount": 5 },
+		{ "item": "graphite", "amount": 3 }
+	],
+	"category": "production",
+	"research": "pneumatic-drill"
+}

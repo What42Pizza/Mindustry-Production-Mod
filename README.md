@@ -32,6 +32,10 @@ There are two ways to add this mod to your game.
   - Input: 2 Iron + 1 Coal
   - Output: 2 Steel
 
+- Steel Wall:
+  - Takes 24 Asphalt
+  - Health: 2750
+
 - Oil Distiller:
   - Input: 20 Oil
   - Output: 10 Petroleum + 5 Sludge Containers
@@ -64,12 +68,21 @@ There are two ways to add this mod to your game.
   - Input: 5 Petroleum
   - Output: 1 Plastic
 
-- Plastic Conveyors:
+- Plastic Conveyor:
   - Takes 2 Plastic + 1 Titanium
   - Speed: 18 Items / Second
 
+- Plastic Conveyor Disconnected:
+  - Takes 2 Plastic + 1 Titanium
+  - Speed: 18 Items / Second
+  - Does not connect to machines
+
 - Tiny Drill:
   - Base Dill Speed: 0.03 Items / Second
+  - Size: 1x1
+
+- Tiny Pneumatic Drill:
+  - Base Dill Speed: 0.05 Items / Second
   - Size: 1x1
 
 - Plastic Bomber Factory: (WIP DO NOT USE)
@@ -95,3 +108,21 @@ There are two ways to add this mod to your game.
 #### Units:
 
 - Plastic Bomber (WIP DO NOT USE)
+
+
+
+#### Enviroment:
+
+- Iron Ore
+- Snow Sand
+- Map: Iron Mountains
+
+
+
+#### Other changes:
+
+- Hail guns have a range of 25 blocks
+- Items take 10 frames instead of 26 frames to pass through junctions
+- Junctions have an item capacity of 2 instead of 6
+- Plastanium Compressors take 5 Petroleum instead of 15 Oil
+- Seperators can output iron too
