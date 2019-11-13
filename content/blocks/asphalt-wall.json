@@ -1,0 +1,12 @@
+{
+	"type": "Wall",
+	"name": "Asphalt Wall",
+	"description": "A wall made of asphalt. This wall will deform when hit because of it's oily properties and therfore has a lot of health.",
+	"health": 2500,
+	"size": 2,
+	"requirements": [
+		{ "item": "asphalt", "amount": 200 }
+	],
+	"research": "titanium-wall",
+	"category": "defense"
+}
