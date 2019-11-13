@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Sand Sifter",
+	"name": "Sand Sifter: Titanium",
 	"description": "Sifts titanium out of large amounts of sand.",
 	"outputItem": {"item": "titanium", "amount": 1},
 	"size": 2,
@@ -19,7 +19,7 @@
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 },
+		{ "item": "lead", "amount": 15 }
 	],
 	"category": "crafting",
 	"research": "silicon-smelter",

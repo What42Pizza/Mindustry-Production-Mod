@@ -1,0 +1,13 @@
+{
+	"type": "ArmoredConveyor",
+	"name": "Plastic Conveyor Disconnected",
+	"description": "This conveyor is just like normal a plastic conveyor but it doesn't connect to buildings.",
+	"health": "10",
+	"requirements": [
+		{"item": "plastic", "amount": 2},
+		{"item": "titanium", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.12,
+	"research": "plastic-conveyor"
+}
