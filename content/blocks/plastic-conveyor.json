@@ -5,9 +5,7 @@
 	"health": "10",
 	"requirements": [
 		{"item": "plastic", "amount": 2},
-		{"item": "titanium", "amount": 1},
-		{"item": "copper", "amount": 1},
-		{"item": "lead", "amount": 1}
+		{"item": "titanium", "amount": 1}
 	],
 	"category": "distribution",
 	"speed": 0.12,

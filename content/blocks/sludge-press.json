@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Sludge Press",
 	"description": "Extracts the oil from sludge and leaves sand",
-	"outputLiquid": {"liquid": "oil", "amount": "1"},
+	"outputLiquid": {"liquid": "oil", "amount": "2"},
 	"outputItem": {"item": "sand", "amount": "1"},
 	"size": 2,
 	"hasPower": true,
