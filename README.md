@@ -1,5 +1,5 @@
 # Mindustry-Production-Mod
-![logo](https://raw.githubusercontent.com/What42Pizza/mindustry-production-mod/master/sprites/git/example.png)
+![GitHub Logo](/sprites/git/example.png)
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium.
 
 There are two ways to add this mod to your game.
