@@ -6,7 +6,7 @@
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 2,
+	"itemCapacity": 5,
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
