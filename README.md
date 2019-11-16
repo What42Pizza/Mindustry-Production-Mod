@@ -1,9 +1,9 @@
 # Mindustry-Production-Mod
 ![GitHub Logo](/sprites/git/example.png)
-This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium.
+This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium. This mod also makes the end-game more interesting, because putting together two materials in one machine to get the most powerful material in the game is not interesting.
 
 There are two ways to add this mod to your game.
-- Method 1: Find your mods folder and move the folder that this file is in to the mods folder.
+- Method 1: Find your mods folder and move the folder containing this file to the mods folder.
 - Method 2: Open Mindustry, go to the mods, go to import from github, and enter "What42Pizza/mindustry-production-mod".
 
 
@@ -35,6 +35,10 @@ There are two ways to add this mod to your game.
 - Steel Wall:
   - Takes 24 Asphalt
   - Health: 2750
+
+- Phase Extractor:
+  - Input: 1 Plastanium + 3 Thorium
+  - Output: 1 Phase Fabric
 
 - Oil Distiller:
   - Input: 20 Oil
@@ -121,8 +125,10 @@ There are two ways to add this mod to your game.
 
 #### Other changes:
 
-- Hail guns have a range of 25 blocks
+- Hail guns have a range of 35 blocks
 - Items take 10 frames instead of 26 frames to pass through junctions
 - Junctions have an item capacity of 2 instead of 6
-- Plastanium Compressors take 5 Petroleum instead of 15 Oil
 - Seperators can output iron too
+
+- Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
+- Phase Weavers now take 2 Phase Fabric because titanium + sand is way too easy for such a powerful material

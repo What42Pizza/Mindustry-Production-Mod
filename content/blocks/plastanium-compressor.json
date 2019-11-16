@@ -2,12 +2,13 @@
 	"consumes": {
 		"power": 3.0,
 		"liquid": {
-			"liquid": "petroleum",
-			"amount": 0.08333
+			"liquid": "water",
+			"amount": 0.01
 		},
 		"items": {
 			"items": [
-				{ "item": "titanium", "amount": 2 }
+				{ "item": "titanium", "amount": 2 },
+				{ "item": "plastic", "amount": 2 }
 			]
 		}
 	}

@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "Phase Extractor",
+	"description": "Exctracts phase thread from plastanium and thorium.",
+	"outputItem": {"item": "phase-thread", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 60,
+	"updateEffect": "formsmoke",
+	"consumes": {
+		"power": 3.0,
+		"items": {
+			"items": [
+				{ "item": "plastanium", "amount": 1 },
+				{ "item": "thorium", "amount": 3 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 15 },
+	],
+	"category": "crafting",
+	"research": "alloy-smelter",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

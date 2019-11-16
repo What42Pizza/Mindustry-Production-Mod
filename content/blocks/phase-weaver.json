@@ -1,0 +1,10 @@
+{
+	"consumes": {
+		"power": 3.0,
+		"items": {
+			"items": [
+				{ "item": "phase-thread", "amount": 2 }
+			]
+		}
+	}
+}
