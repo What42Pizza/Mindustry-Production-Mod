@@ -2,7 +2,7 @@
 	"type": "Wall",
 	"name": "Steel Wall",
 	"description": "A wall made of hard steel.",
-	"health": 2750,
+	"health": 2000,
 	"size": 2,
 	"requirements": [
 		{ "item": "steel", "amount": 24 }

@@ -1,4 +1,5 @@
 {
+	"outputItem": { "item": "plastanium", "amount": 4 },
 	"consumes": {
 		"power": 3.0,
 		"liquid": {
