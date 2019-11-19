@@ -1,0 +1,12 @@
+{
+	"type": "Wall",
+	"name": "Large Steel Wall",
+	"description": "A large wall made of hard steel.",
+	"health": 2000,
+	"size": 2,
+	"requirements": [
+		{ "item": "steel", "amount": 24 }
+	],
+	"research": "steel-wall",
+	"category": "defense"
+}

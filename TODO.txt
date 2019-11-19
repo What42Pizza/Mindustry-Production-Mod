@@ -2,7 +2,6 @@ TODO:
 
 Plastic as ammo
 Steel as ammo
-Add small steel and asphalt walls
 Better graphics?
 Fix conveyor graphics (something is very wrong with my image editting software)
 Finish Plastic Bomber (tweaking and sprites)
