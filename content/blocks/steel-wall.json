@@ -2,10 +2,11 @@
 	"type": "Wall",
 	"name": "Steel Wall",
 	"description": "A wall made of hard steel.",
-	"health": 2000,
-	"size": 2,
+	"health": 500,
+	"size": 1,
+	"buildCostMultiplier": 0.5,
 	"requirements": [
-		{ "item": "steel", "amount": 24 }
+		{ "item": "steel", "amount": 6 }
 	],
 	"research": "titanium-wall",
 	"category": "defense"
