@@ -33,8 +33,12 @@ There are two ways to add this mod to your game.
   - Output: 2 Steel
 
 - Steel Wall:
-  - Takes 24 Asphalt
-  - Health: 2750
+  - Takes 6 Steel
+  - Health: 500
+
+- Large Steel Wall:
+  - Takes 24 Steel
+  - Health: 2000
 
 - Phase Extractor:
   - Input: 1 Plastanium + 3 Thorium
@@ -57,6 +61,10 @@ There are two ways to add this mod to your game.
   - Output: 5 Asphalt
 
 - Asphalt Wall:
+  - Takes 50 Asphalt
+  - Health: 600
+
+- Large Asphalt Wall:
   - Takes 200 Asphalt
   - Health: 2500
 

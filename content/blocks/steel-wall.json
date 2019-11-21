@@ -4,7 +4,7 @@
 	"description": "A wall made of hard steel.",
 	"health": 500,
 	"size": 1,
-	"buildCostMultiplier": 0.5,
+	"buildCostMultiplier": 5,
 	"requirements": [
 		{ "item": "steel", "amount": 6 }
 	],
