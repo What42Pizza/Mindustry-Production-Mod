@@ -1,14 +1,14 @@
 {
 	"type": "GenericSmelter",
 	"name": "Sludge Burner",
-	"description": "Burns off excess sludge created from oil distillation. Ignore the copper output, as it gives 0 copper.",
+	"description": "Burns off excess sludge created from oil distillation.",
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
 	"itemCapacity": 10,
 	"craftTime": 12,
-	"updateEffect": "smeltsmoke",
+	"updateEffect": "smoke",
 	"consumes": {
 		"power": 1.66666,
 		"items": {
@@ -17,7 +17,6 @@
 			]
 		}
 	},
-	"outputItem": {"item": "copper", "amount": "0"},
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
