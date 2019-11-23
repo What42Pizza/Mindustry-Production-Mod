@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Light Oil Cracker",
 	"description": "This cracks the strands of Light Oil into smaller strands of Petroleum.",
-	"outputLiquid": {"liquid": "petroleum", "amount": 2.0},
+	"outputLiquid": {"liquid": "petroleum", "amount": 2.5},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,7 +15,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "light-oil",
-			"amount": 0.04166
+			"amount": 0.06666
 		}
 	},
 	"requirements": [
