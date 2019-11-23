@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Heavy Oil Cracker",
 	"description": "This cracks the strands of Heavy Oil into smaller strands of Light.",
-	"outputLiquid": {"liquid": "light-oil", "amount": 2.0},
+	"outputLiquid": {"liquid": "light-oil", "amount": 2.5},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,7 +15,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "heavy-oil",
-			"amount": 0.04166
+			"amount": 0.06666
 		}
 	},
 	"requirements": [
