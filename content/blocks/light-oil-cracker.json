@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Light Oil Cracker",
+	"description": "This cracks the strands of Light Oil into smaller strands of Petroleum.",
+	"outputLiquid": {"liquid": "petroleum", "amount": 2.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 10.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 60,
+	"updateEffect": "steam",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {
+			"liquid": "light-oil",
+			"amount": 0.04166
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "steel", "amount": 25 },
+		{ "item": "plastic", "amount": 25 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "light-oil-burner",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

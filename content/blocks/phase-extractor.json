@@ -23,7 +23,7 @@
 		{ "item": "lead", "amount": 15 },
 	],
 	"category": "crafting",
-	"research": "alloy-smelter",
+	"research": "plastanium-compressor",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

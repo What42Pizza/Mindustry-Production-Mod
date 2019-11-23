@@ -25,7 +25,7 @@
 		{ "item": "metaglass", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "sludge-burner",
+	"research": "sludge-press",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

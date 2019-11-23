@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Heavy Oil Cracker",
+	"description": "This cracks the strands of Heavy Oil into smaller strands of Light.",
+	"outputLiquid": {"liquid": "light-oil", "amount": 2.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 10.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 60,
+	"updateEffect": "steam",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {
+			"liquid": "heavy-oil",
+			"amount": 0.04166
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "steel", "amount": 25 },
+		{ "item": "plastic", "amount": 25 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "heavy-oil-burner",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

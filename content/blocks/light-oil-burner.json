@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Light Oil Burner",
+	"description": "Burns off excess light oil created from oil distillation.",
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 12,
+	"updateEffect": "smoke",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {
+			"liquid": "light-oil",
+			"amount": 0.04166
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 25 },
+		{ "item": "metaglass", "amount": 25 }
+	],
+	"category": "crafting",
+	"research": "sludge-burner",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

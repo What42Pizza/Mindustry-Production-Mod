@@ -1,0 +1,8 @@
+{
+	"name": "Heavy Oil",
+	"description": "Heavy Oil is a by-product of petroleum.",
+	"temperature": 1.0,
+	"viscosity": 0.8,
+	"effect": "burning",
+	"color": "444000"
+}

@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"name": "Heavy Oil Emptyer",
+	"description": "This takes the Heavy Oil out of Heavy Oil Containers.",
+	"outputLiquid": {"liquid": "heavy-oil", "amount": 5.0},
+	"size": 1,
+	"hasPower": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 10.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 15,
+	"updateEffect": "fuelburn",
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{ "item": "heavy-oil-container", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "light-oil-emptyer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

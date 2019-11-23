@@ -46,11 +46,39 @@ There are two ways to add this mod to your game.
 
 - Oil Distiller:
   - Input: 20 Oil
-  - Output: 10 Petroleum + 5 Sludge Containers
+  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers
+
+- Petroleum Emptyer
+  - Input: 1 Petrolem Container
+  - Output: 5 Petroleum
+
+- Light Oil Emptyer
+  - Input: 1 Light Oil Container
+  - Output: 5 Light Oil
+
+- Heavy Oil Emptyer
+  - Input: 1 Heavy Oil Container
+  - Output: 5 Heavy Oil
 
 - Sludge Burner:
   - Input: 1 Sludge Contianer
   - No output
+
+- Light Oil Burner:
+  - Input: 5 Light Oil
+  - No output
+
+- Heavy Oil Burner:
+  - Input: 5 Heavy Oil
+  - No output
+
+- Light Oil Cracker
+  - Input: 2.5 Light Oil
+  - Output: 2 Heavy Oil
+
+- Heavy Oil Cracker
+  - Input: 2.5 Heavy Oil
+  - Output: 2 Light Oil
 
 - Sludge Press:
   - Input: 2 Sludge Containers
@@ -68,7 +96,7 @@ There are two ways to add this mod to your game.
   - Takes 200 Asphalt
   - Health: 2500
 
-- Petroleum Filler: (used only for petroleum generator)
+- Petroleum Filler:
   - Input: 1 Petroleum
   - Output: 1 Petroleum Container
 
@@ -110,10 +138,20 @@ There are two ways to add this mod to your game.
 - Iron (mined from ground)
 - Steel (made by Steel Forge)
 - Sludge Container (made by Oil Distiller)
-- Petroleum (made by Oil Distiller)
-- Petroleum Container (made by Petroleum Filler and onyl used for Petroleum Generator)
+- Petroleum Container (made by Oil Distiller and Petroleum Filler)
+- Light Oil Container (made by Oil Distiller)
+- Heavy Oil Container (made by Oil Distiller)
 - Plastic (made by Plastic Forge)
 - Asphalt (made by Asphalt Mixer)
+- Phase Thread (made by Phase Extractor)
+
+
+
+#### Liquids:
+
+- Petroleum (made by Oil Distiller)
+- Light Oil (made by Oil Distiller)
+- Heavy Oil (made by Oil Distiller)
 
 
 
@@ -139,4 +177,4 @@ There are two ways to add this mod to your game.
 - Seperators can output iron too
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
-- Phase Weavers now take 2 Phase Fabric because titanium + sand is way too easy for such a powerful material
+- Phase Weavers now take 2 Phase Threads + 1 Heavy Oil because titanium + sand is way too easy for such a powerful material

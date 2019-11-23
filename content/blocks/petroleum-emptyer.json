@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"name": "Petroleum Emptyer",
+	"description": "This takes the Petroleum out of Petroleum Containers.",
+	"outputLiquid": {"liquid": "petroleum", "amount": 5.0},
+	"size": 1,
+	"hasPower": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 10.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 15,
+	"updateEffect": "fuelburn",
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{ "item": "petroleum-container", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "oil-distiller",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

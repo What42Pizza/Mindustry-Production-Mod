@@ -1,22 +1,26 @@
 {
-	"type": "GenericCrafter",
+	"type": "Separator",
 	"name": "Oil Distiller",
-	"description": "Distills oil into petroleum.",
-	"outputLiquid": {"liquid": "petroleum", "amount": 10},
-	"outputItem": {"item": "sludge-container", "amount": "5"},
-	"size": 2,
+	"description": "Distills oil into petroleum, light oil, heavy oil, and sludge.",
+	"results": [
+		{"item": "petroleum-container", "amount": 2},
+		{"item": "light-oil-container", "amount": 2},
+		{"item": "heavy-oil-container", "amount": 2},
+		{"item": "sludge-container", "amount": 2}
+	],
+	"size": 3,
 	"hasPower": true,
 	"hasLiquids": true,
 	"liquidCapacity": 50,
 	"hasItems": true,
 	"itemCapacity": 10,
-	"craftTime": 60,
+	"craftTime": 5,
 	"updateEffect": "oily",
 	"consumes": {
 		"power": 1.0,
 		"liquid": {
 			"liquid": "oil",
-			"amount": 0.33333
+			"amount": 1.0
 		}
 	},
 	"requirements": [
@@ -26,7 +30,7 @@
 		{ "item": "graphite", "amount": 25 },
 	],
 	"category": "crafting",
-	"research": "melter",
+	"research": "separator",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

@@ -5,6 +5,10 @@
 			"items": [
 				{ "item": "phase-thread", "amount": 2 }
 			]
+		},
+		"liquid": {
+			"liquid": "heavy-oil",
+			"amount": 0.00833
 		}
 	}
 }
