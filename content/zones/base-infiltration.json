@@ -17,11 +17,15 @@
 		},
 		{
 			"type": "Unlock",
-			"block": "dagger-factory"
+			"block": "laser-drill"
 		},
 		{
 			"type": "Unlock",
-			"block": "laser-drill"
+			"block": "turbine-generator"
+		},
+		{
+			"type": "Unlock",
+			"block": "dagger-factory"
 		}
 	],
 	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand"]
