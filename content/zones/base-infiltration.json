@@ -1,0 +1,28 @@
+{
+	"name": "Base Infiltration",
+	"description": "You are being sent deirectly into an enemy base. Destroy it before backup arrives.",
+	"loadout": "basicFoundation",
+	"startingItems": [
+		{"item": "copper", "amount": 300},
+		{"item": "lead", "amount": 200},
+		{"item": "graphite", "amount": 100}
+	],
+	"conditionWave": 10,
+	"launchPeriod": 10,
+	"requirements": [
+		{
+			"type": "ZoneWave",
+			"zone": "saltFlats", 
+			"wave": 30
+		},
+		{
+			"type": "Unlock",
+			"block": "dagger-factory"
+		},
+		{
+			"type": "Unlock",
+			"block": "laser-drill"
+		}
+	],
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand"]
+}

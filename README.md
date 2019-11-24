@@ -166,15 +166,17 @@ There are two ways to add this mod to your game.
 - Iron Ore
 - Snow Sand
 - Map: Iron Mountains
+- Map: Base Infiltration
 
 
 
 #### Other changes:
 
-- Hail guns have a range of 35 blocks
-- Items take 10 frames instead of 26 frames to pass through junctions
-- Junctions have an item capacity of 2 instead of 6
-- Seperators can output iron too
+- Hail guns now have a range of 35 blocks
+- Salvos now take about 1 second to build
+- Items now take 10 frames instead of 26 frames to pass through junctions
+- Junctions now have an item capacity of 2 instead of 6
+- Seperators can now output iron too
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
 - Phase Weavers now take 2 Phase Threads + 1 Heavy Oil because titanium + sand is way too easy for such a powerful material

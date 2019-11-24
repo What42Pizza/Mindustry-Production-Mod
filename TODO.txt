@@ -1,9 +1,8 @@
 TODO:
 
-Plastic as ammo
 Steel as ammo
 Advanced oil cracking
-New map
+Redo research
 Fix conveyor graphics (something is very wrong with my image editting software)
 Better graphics?
 Finish Plastic Bomber (tweaking and sprites)
