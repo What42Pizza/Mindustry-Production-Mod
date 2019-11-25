@@ -6,7 +6,7 @@
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 5,
+	"itemCapacity": 10,
 	"craftTime": 60,
 	"updateEffect": "formsmoke",
 	"consumes": {
