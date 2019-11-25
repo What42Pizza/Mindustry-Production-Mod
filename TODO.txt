@@ -1,5 +1,6 @@
 TODO:
 
+Add more pages to the wiki
 Steel as ammo
 Advanced oil cracking
 Redo research?
