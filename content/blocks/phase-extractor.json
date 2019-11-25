@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Phase Extractor",
-	"description": "Exctracts phase thread from plastanium and thorium.",
+	"description": "Extracts phase thread from plastanium and thorium.",
 	"outputItem": {"item": "phase-thread", "amount": 1},
 	"size": 2,
 	"hasPower": true,
