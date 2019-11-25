@@ -31,7 +31,7 @@
 		{ "item": "plastic", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "plastic-forge",
+	"research": "oil-extractor",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
