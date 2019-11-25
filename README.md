@@ -77,12 +77,12 @@ There are two ways to add this mod to your game.
   - No output
 
 - Light Oil Cracker
-  - Input: 2.5 Light Oil
-  - Output: 2 Heavy Oil
+  - Input: 4 Light Oil
+  - Output: 2.5 Heavy Oil
 
 - Heavy Oil Cracker
-  - Input: 2.5 Heavy Oil
-  - Output: 2 Light Oil
+  - Input: 4 Heavy Oil
+  - Output: 2.5 Light Oil
 
 - Sludge Press:
   - Input: 2 Sludge Containers
