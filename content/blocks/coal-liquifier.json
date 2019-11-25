@@ -17,18 +17,18 @@
 			"items": [
 				{"item": "coal", "amount": 1}
 			]
-		}
+		},
 		"liquid": {
 			"liquid": "water",
 			"amount": 0.05
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 100 },
-		{ "item": "titanium", "amount": 50 },
+		{ "item": "copper", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
-		{ "item": "graphite", "amount": 25 },
-		{ "item": "plastic", "amount": 25 }
+		{ "item": "titanium", "amount": 25 },
+		{ "item": "plastic", "amount": 25 },
+		{ "item": "graphite", "amount": 10 }
 	],
 	"category": "crafting",
 	"research": "oil-extractor",
