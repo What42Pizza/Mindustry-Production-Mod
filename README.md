@@ -16,9 +16,13 @@ There are two ways to add this mod to your game.
 
 #### Blocks:
 
-- Sand Sifter:
+- Sand Sifter Titanium:
   - Input: 50 Sand
   - Output: 1 Titanium
+
+- Sand Sifter Iron:
+  - Input: 25 Sand
+  - Output: 1 Iron
 
 - Scrap Maker:
   - Input: 2 Copper + 1 Lead
