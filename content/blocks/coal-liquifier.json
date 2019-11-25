@@ -12,7 +12,7 @@
 	"craftTime": 20,
 	"updateEffect": "oily",
 	"consumes": {
-		"power": 1,
+		"power": 1.0,
 		"items": {
 			"items": [
 				{"item": "coal", "amount": 1}
