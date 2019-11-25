@@ -1,6 +1,6 @@
 # Mindustry-Production-Mod
 ![GitHub Logo](/sprites/git/example.png)
-This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium. This mod also makes the end-game more interesting, because putting together two materials in one machine to get the most powerful material in the game is not interesting.
+This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium. This mod also makes the end-game sightly harder.
 
 There are two ways to add this mod to your game.
 - Method 1: Find your mods folder and move the folder containing this file to the mods folder.
@@ -21,7 +21,7 @@ There are two ways to add this mod to your game.
   - Output: 1 Titanium
 
 - Sand Sifter Iron:
-  - Input: 25 Sand
+  - Input: 20 Sand
   - Output: 1 Iron
 
 - Scrap Maker:
