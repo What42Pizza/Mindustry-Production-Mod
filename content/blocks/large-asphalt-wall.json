@@ -5,7 +5,7 @@
 	"health": 2500,
 	"size": 2,
 	"requirements": [
-		{ "item": "asphalt", "amount": 200 }
+		{ "item": "asphalt", "amount": 80 }
 	],
 	"research": "asphalt-wall",
 	"category": "defense"
