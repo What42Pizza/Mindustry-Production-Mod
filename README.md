@@ -44,9 +44,13 @@ There are two ways to add this mod to your game.
   - Input: 1 Plastanium + 3 Thorium
   - Output: 1 Phase Fabric
 
+- Coal Liquifier:
+  - Input: 1 Coal + 1 Water
+  - Output: 2 Oil
+
 - Oil Distiller:
   - Input: 20 Oil
-  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers
+  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second)
 
 - Petroleum Emptyer
   - Input: 1 Petrolem Container

@@ -34,3 +34,23 @@
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
+/*
+I didn't know how much this outputs so I did an experiment
+
+Here's what I did:
+1: set up an oil distiller connected directly to a liquid source set to oil and connected directly to a vault
+2: place an infinite power node
+3: disconnect power and place items voids to remove any items
+4: take away item voids and set up a 5 minute timer
+5: start timer and simultaneously connect the power node
+6: wait until timer is done and immediately disconnect power
+
+Here is what was in the vault at the end of the experiment:
+752 Petroleum Containers
+703 Light Oil Containers
+781 Heavy Oil Containers
+718 Sludge Containers
+
+Conclusion:
+The Oil Distiller gives 148 +- 7 items of each output type / minute or about 2.5 of each output type per second.
+*/
