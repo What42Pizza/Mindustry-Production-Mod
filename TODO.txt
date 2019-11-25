@@ -2,7 +2,7 @@ TODO:
 
 Steel as ammo
 Advanced oil cracking
-Redo research
+Redo research?
 Fix conveyor graphics (something is very wrong with my image editting software)
 Better graphics?
 Finish Plastic Bomber (tweaking and sprites)
