@@ -23,7 +23,7 @@
 		{ "item": "lead", "amount": 15 },
 	],
 	"category": "crafting",
-	"research": "silicon-smelter",
+	"research": "pulverizer",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
