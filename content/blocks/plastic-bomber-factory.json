@@ -19,8 +19,6 @@
 	"requirements": [
 		{ "item": "plastic", "amount": 50 },
 		{ "item": "titanium", "amount": 50 },
-		{ "item": "copper", "amount": 25 },
-		{ "item": "lead", "amount": 25 },
 		{ "item": "silicon", "amount": 40 }
 	]
 }
