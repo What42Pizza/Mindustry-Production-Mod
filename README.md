@@ -36,6 +36,10 @@ There are two ways to add this mod to your game.
   - Input: 2 Iron + 1 Coal
   - Output: 2 Steel
 
+- Aluminum Forge:
+  - Input: 2 Aluminum Ore
+  - Output: 1 Aluminum
+
 - Steel Wall:
   - Takes 6 Steel
   - Health: 500
@@ -82,11 +86,23 @@ There are two ways to add this mod to your game.
 
 - Light Oil Cracker
   - Input: 4 Light Oil
-  - Output: 2.5 Heavy Oil
+  - Output: 2.5 Petroleum
 
 - Heavy Oil Cracker
   - Input: 4 Heavy Oil
   - Output: 2.5 Light Oil
+
+- Advanced Light Oil Cracker
+  - Input: 30 Light Oil + 1 Cracking Catalyst
+  - Output: 30 Petroleum
+
+- Advanced Heavy Oil Cracker
+  - Input: 15 Heavy Oil + 1 Cracking Catalyst
+  - Output: 15 Light Oil
+
+- Catalyst Crusher
+  - Input: 1 Aluminum
+  - Output: 3 Cracking Catalyst
 
 - Sludge Press:
   - Input: 2 Sludge Containers
@@ -145,6 +161,8 @@ There are two ways to add this mod to your game.
 
 - Iron (mined from ground)
 - Steel (made by Steel Forge)
+- Aluminum Ore (mined from ground)
+- Aluminum (made by Aluminum Forge)
 - Sludge Container (made by Oil Distiller)
 - Petroleum Container (made by Oil Distiller and Petroleum Filler)
 - Light Oil Container (made by Oil Distiller)
@@ -172,6 +190,7 @@ There are two ways to add this mod to your game.
 #### Enviroment:
 
 - Iron Ore
+- Aluminum Ore
 - Snow Sand
 - Map: Iron Mountains
 - Map: Base Infiltration

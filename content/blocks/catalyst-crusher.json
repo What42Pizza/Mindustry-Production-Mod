@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"name": "Catalyst Crusher",
+	"description": "Crushes Aluminum into Cracking Catalyst.",
+	"outputItem": {"item": "cracking-catalyst", "amount": "3"},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 30,
+	"updateEffect": "pulverize",
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "aluminum", "amount": 1}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 25 },
+		{ "item": "metaglass", "amount": 25 }
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

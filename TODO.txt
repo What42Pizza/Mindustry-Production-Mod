@@ -1,12 +1,7 @@
 TODO:
 
-Aluminum
-   Aluminum Ore (Bauxite)
-   Aluminum Forge
-   Aluminum Ingot
-   Flying Units require Aluminum instead of Titanium
+Flying Units require Aluminum instead of Titanium
 Add more pages to the wiki
-Advanced oil cracking
 Steel as ammo
 Fix conveyor graphics (something is very wrong with my image editting software)
 Finish Plastic Bomber (tweaking and sprites)

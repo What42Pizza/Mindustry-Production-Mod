@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Aluminum Ore",
+	"itemDrop": "aluminum-ore",
+	"variants": 3,
+	"playerUnmineable": true
+}
