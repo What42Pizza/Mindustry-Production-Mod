@@ -29,7 +29,7 @@
 		{ "item": "graphite", "amount": 15 }
 	],
 	"category": "crafting",
-	"research": "heavy-oil-burner",
+	"research": "heavy-oil-cracker",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
