@@ -203,7 +203,7 @@ There are two ways to add this mod to your game.
 - Salvos now take about 1 second to build
 - Items now take 10 frames instead of 26 frames to pass through junctions
 - Junctions now have an item capacity of 2 instead of 6
-- Seperators can now output iron too
+- Seperators can now output iron and aluminum ore too
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
 - Phase Weavers now take 2 Phase Threads + 1 Heavy Oil because titanium + sand is way too easy for such a powerful material
