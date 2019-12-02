@@ -12,7 +12,7 @@
 		{
 			"type": "ZoneWave",
 			"zone": "groundZero", 
-			"wave": 30
+			"wave": 25
 		},
 		{
 			"type": "Unlock",
