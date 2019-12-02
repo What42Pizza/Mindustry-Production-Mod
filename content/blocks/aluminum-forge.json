@@ -1,0 +1,31 @@
+{
+	"type": "GenericSmelter",
+	"name": "Aluminum Forge",
+	"description": "Uses massive amounts of electricity to smelt Aluminum Ore into Aluminum.",
+	"outputItem": {"item": "aluminum", "amount": "1"},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.5,
+		"items": {
+			"items": [
+				{ "item": "aluminum-ore", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "steel", "amount": 50 },
+		{ "item": "copper", "amount": 25 },
+		{ "item": "silicon", "amount": 15 },
+		{ "item": "graphite", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "kiln",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

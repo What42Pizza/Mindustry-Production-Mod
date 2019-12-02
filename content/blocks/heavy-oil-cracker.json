@@ -7,8 +7,7 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"LiquidCapacity": 10.0,
-	"hasItems": true,
-	"itemCapacity": 5,
+	"hasItems": false,
 	"craftTime": 60,
 	"updateEffect": "steam",
 	"consumes": {
