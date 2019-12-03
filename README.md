@@ -193,7 +193,7 @@ There are two ways to add this mod to your game.
 - Aluminum Ore
 - Snow Sand
 - Map: Iron Mountains
-- Map: Base Infiltration
+- Map: Base Infiltration (broken)
 
 
 
