@@ -1,6 +1,7 @@
 TODO:
 
 Flying Units require Aluminum instead of Titanium
+Bauxite Bay
 Add more pages to the wiki
 Steel as ammo
 Fix conveyor graphics (something is very wrong with my image editting software)
