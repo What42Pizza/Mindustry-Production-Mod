@@ -1,0 +1,6 @@
+{
+	"type": "Rock",
+	"name": "Pine (Deconstructable)"
+	"Description": "This is like a normal pine but you can remove it",
+	"buildCostMultiplier": 0.25
+}
