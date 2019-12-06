@@ -3,5 +3,4 @@ TODO:
 Add more pages to the wiki
 Steel as ammo
 Fix conveyor graphics (something is very wrong with my image editting software)
-Finish Plastic Bomber (tweaking and sprites)
 Better graphics?

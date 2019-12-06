@@ -1,10 +1,10 @@
 {
-	"name": "Plastic Bomber Factory",
-	"description": "Makes plastic bombing units. These things are very fast but have almost no health. WIP",
+	"name": "Plastic Fighter Factory",
+	"description": "Makes Plastic Fighting units. These things are very fast but have almost no health.",
 	"type": "UnitFactory",
-	"unitType": "plastic-bomber",
+	"unitType": "plastic-fighter",
 	"size": 2,
-	"produceTime": 180,
+	"produceTime": 300,
 	"consumes": {
 		"power": 0.5,
 		"items": {
@@ -19,6 +19,7 @@
 	"requirements": [
 		{ "item": "plastic", "amount": 50 },
 		{ "item": "titanium", "amount": 50 },
-		{ "item": "silicon", "amount": 40 }
+		{ "item": "aluminum", "amount": 25 },
+		{ "item": "silicon", "amount": 25 }
 	]
 }

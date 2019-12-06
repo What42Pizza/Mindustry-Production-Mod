@@ -149,9 +149,9 @@ There are two ways to add this mod to your game.
   - Base Dill Speed: 0.05 Items / Second
   - Size: 1x1
 
-- Plastic Bomber Factory: (WIP DO NOT USE)
-  - Input 10 Plastic + 5 Titanium
-  - Output: Plastic Bomber Unit
+- Plastic Fighter Factory:
+  - Input 10 Plastic + 5 Aluminum
+  - Output: Plastic Fighter Unit
 
 
 
@@ -183,7 +183,7 @@ There are two ways to add this mod to your game.
 
 #### Units:
 
-- Plastic Bomber (WIP DO NOT USE)
+- Plastic Fighter
 
 
 
