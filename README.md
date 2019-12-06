@@ -150,7 +150,7 @@ There are two ways to add this mod to your game.
   - Size: 1x1
 
 - Plastic Bomber Factory: (WIP DO NOT USE)
-  - Input 10 Plastic + 5 Titanium
+  - Input 10 Plastic + 5 Aluminum
   - Output: Plastic Bomber Unit
 
 
