@@ -11,17 +11,17 @@
 	"requirements": [
 		{
 			"type": "ZoneWave",
-			"zone": "groundZero", 
-			"wave": 30
+			"zone": "ruinous-shores", 
+			"wave": 30,
 		},
 		{
 			"type": "Unlock",
-			"block": "graphite-press"
+			"block": "aluminum-forge",
 		},
 		{
 			"type": "Unlock",
-			"block": "pneumatic-drill"
+			"block": "steel-forge"
 		}
 	],
-	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand"]
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand", aluminum]
 }
