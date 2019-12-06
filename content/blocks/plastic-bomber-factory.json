@@ -10,7 +10,7 @@
 		"items": {
 			"items": [
 				{ "item": "plastic", "amount": 10 },
-				{ "item": "titanium", "amount": 5 }
+				{ "item": "aluminum", "amount": 5 }
 			]
 		}
 	},

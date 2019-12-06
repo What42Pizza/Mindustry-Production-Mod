@@ -1,0 +1,12 @@
+{
+	"type": "Incinerator",
+	"name": "Launch Pad",
+	"description": "This block is only used in Base Infiltration and should not be built by the player.",
+	"size": 3,
+	"effect": "none",
+	"requirements": [
+		{ "item": "copper", "amount": 1000000 }
+	],
+	"category": "crafting",
+	"research": "launch-pad-decal"
+}
