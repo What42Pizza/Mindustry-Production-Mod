@@ -13,7 +13,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "heavy-oil",
-			"amount": 0.41666
+			"amount": 0.25
 		}
 	},
 	"requirements": [
