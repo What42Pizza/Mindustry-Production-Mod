@@ -24,7 +24,7 @@
 		}
 	},
 	"requirements": [
-		{ "item": "plastic", "amount: 100 },
+		{ "item": "plastic", "amount": 100 },
 		{ "item": "steel", "amount": 50 },
 		{ "item": "copper", "amount": 25 },
 		{ "item": "graphite", "amount": 15 }
