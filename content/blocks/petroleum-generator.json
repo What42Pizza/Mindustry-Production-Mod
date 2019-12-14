@@ -4,7 +4,7 @@
 	"description": "Produces power using petroleum.",
 	"size": 2,
 	"hasPower": true,
-	"powerProduction": 8.33333,
+	"powerProduction": 12.5,
 	"hasItems": true,
 	"itemDuration": 60,
 	"hasLiquids": false,

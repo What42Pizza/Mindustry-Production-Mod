@@ -1,0 +1,35 @@
+{
+	"type": "GenericCrafter",
+	"name": "Thorium Builder",
+	"description": "Creates thorium crystals using titanium and thorium sludge.",
+	"outputItem": {"item": "thorium", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 60,
+	"updateEffect": "pulverize",
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "thorium-sludge",
+			"amount": 0.16666
+		}
+	},
+	"requirements": [
+		{ "item": "steel", "amount": 100 },
+		{ "item": "plastic", "amount": 100 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "aluminum", "amount": 50 },
+		{ "item": "graphite", "amount": 10 }
+	],
+	"category": "crafting",
+	"research": "titanium-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

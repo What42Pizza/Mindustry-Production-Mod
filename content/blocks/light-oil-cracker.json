@@ -14,7 +14,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "light-oil",
-			"amount": 0.4166
+			"amount": 0.4167
 		}
 	},
 	"requirements": [

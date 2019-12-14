@@ -4,7 +4,7 @@
 	"description": "This takes the Light Oil out of Light Oil Containers.",
 	"outputLiquid": {"liquid": "light-oil", "amount": 5.0},
 	"size": 1,
-	"hasPower": true,
+	"hasPower": false,
 	"hasLiquids": true,
 	"LiquidCapacity": 10.0,
 	"hasItems": true,
@@ -12,7 +12,7 @@
 	"craftTime": 15,
 	"updateEffect": "fuelburn",
 	"consumes": {
-		"power": 1.0,
+		"power": 0.0,
 		"items": {
 			"items": [
 				{ "item": "light-oil-container", "amount": 1 }

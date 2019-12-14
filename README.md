@@ -1,6 +1,6 @@
 # Mindustry Production Mod
 ![GitHub Logo](/sprites/git/example.png)
-This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium. This mod also makes the end-game sightly harder.
+This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
 There are two ways to add this mod to your game.
 - Method 1: Find your mods folder and move the folder containing this file to the mods folder.
@@ -41,6 +41,10 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Steel Forge:
   - Input: 2 Iron + 1 Coal
   - Output: 2 Steel
+
+- Thorium Forge:
+  - Input: 1 Thorium + 2 Titanium + 10 Heavy Oil
+  - Output: 2 Thorium
 
 - Aluminum Forge:
   - Input: 2 Aluminum Ore
@@ -91,20 +95,20 @@ If you want to contact me, please do it over discord using @what42pizza.
   - No output
 
 - Light Oil Cracker
-  - Input: 4 Light Oil
-  - Output: 2.5 Petroleum
+  - Input: 25 Light Oil
+  - Output: 15 Petroleum
 
 - Heavy Oil Cracker
-  - Input: 4 Heavy Oil
-  - Output: 2.5 Light Oil
+  - Input: 15 Heavy Oil
+  - Output: 10 Light Oil
 
 - Advanced Light Oil Cracker
-  - Input: 30 Light Oil + 1 Cracking Catalyst
-  - Output: 30 Petroleum
+  - Input: 15 Light Oil + 1 Cracking Catalyst
+  - Output: 20 Petroleum
 
 - Advanced Heavy Oil Cracker
-  - Input: 15 Heavy Oil + 1 Cracking Catalyst
-  - Output: 15 Light Oil
+  - Input: 40 Heavy Oil + 1 Cracking Catalyst
+  - Output: 50 Light Oil
 
 - Catalyst Crusher
   - Input: 1 Aluminum
@@ -132,7 +136,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Petroleum Generator:
   - Takes 1 Pretroleum Container
-  - Output: 500 Power / Second
+  - Output: 750 Power / Second
 
 - Plastic Forge:
   - Input: 5 Petroleum
@@ -214,4 +218,4 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Flying units are now made from aluminum instead of titanium
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
-- Phase Weavers now take 2 Phase Threads + 1 Heavy Oil because titanium + sand is way too easy for such a powerful material
+- Phase Weavers now take 2 Phase Threads + 1 Heavy Oil
