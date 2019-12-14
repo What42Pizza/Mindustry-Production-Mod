@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Thorium Builder",
+	"name": "Thorium Crystallizer",
 	"description": "Creates thorium crystals using titanium and thorium sludge.",
 	"outputItem": {"item": "thorium", "amount": 2},
 	"size": 2,

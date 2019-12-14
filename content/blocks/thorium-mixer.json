@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "Thorium Forge",
-	"description": "Creates thorium using titanium, heavy oil, and some starting thorium.",
+	"name": "Thorium Mixer",
+	"description": "Mixes Thorium and Heavy Oil into Thorium Sludge.",
 	"outputLiquid": {"liquid": "thorium-sludge", "amount": 15.0},
 	"size": 2,
 	"hasPower": true,
