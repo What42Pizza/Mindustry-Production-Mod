@@ -136,7 +136,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Petroleum Generator:
   - Takes 1 Pretroleum Container
-  - Output: 750 Power / Second
+  - Output: 600 Power / Second
 
 - Plastic Forge:
   - Input: 5 Petroleum
@@ -188,6 +188,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Petroleum (made by Oil Distiller)
 - Light Oil (made by Oil Distiller)
 - Heavy Oil (made by Oil Distiller)
+- Thorium Sludge (made by Thorium Mixer)
 
 
 
