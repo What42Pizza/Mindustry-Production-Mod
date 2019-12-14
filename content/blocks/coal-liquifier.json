@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Coal Liquifier",
 	"description": "Extracts the oil from coal.",
-	"outputLiquid": {"liquid": "oil", "amount": "2"},
+	"outputLiquid": {"liquid": "oil", "amount": "5"},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,

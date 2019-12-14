@@ -42,13 +42,17 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Input: 2 Iron + 1 Coal
   - Output: 2 Steel
 
-- Thorium Forge:
-  - Input: 1 Thorium + 2 Titanium + 10 Heavy Oil
-  - Output: 2 Thorium
-
 - Aluminum Forge:
   - Input: 2 Aluminum Ore
   - Output: 1 Aluminum
+
+- Thorium Mixer
+  - Input: 1 Thorium + 10 Heavy Oil
+  - Output: 15 Thorium Sludge
+
+- Thorium Crystallizer
+  - Input: 2 Titanium + 10 Thorium Sludge
+  - Output: 2 Thorium
 
 - Steel Wall:
   - Takes 6 Steel
