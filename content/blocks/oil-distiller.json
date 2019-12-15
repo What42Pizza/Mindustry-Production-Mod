@@ -6,7 +6,7 @@
 		{"item": "petroleum-container", "amount": 2},
 		{"item": "light-oil-container", "amount": 2},
 		{"item": "heavy-oil-container", "amount": 2},
-		{"item": "sludge-container", "amount": 2}
+		{"item": "sludge-container", "amount": 5}
 	],
 	"size": 3,
 	"hasPower": true,
