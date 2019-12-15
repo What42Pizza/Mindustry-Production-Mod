@@ -68,7 +68,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Oil Distiller:
   - Input: 20 Oil
-  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second)
+  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second, except sludge container, which gives about 6.25 per second)
 
 - Petroleum Emptyer
   - Input: 1 Petrolem Container
