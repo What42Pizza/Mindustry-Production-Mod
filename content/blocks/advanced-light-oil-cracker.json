@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Advanced Light Oil Cracker",
 	"description": "This cracks Light Oil into Petroleum using the Cracking Catalyst.",
-	"outputLiquid": {"liquid": "petroleum", "amount": 50.0},
+	"outputLiquid": {"liquid": "petroleum", "amount": 11.66666},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,7 +15,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "light-oil",
-			"amount": 0.66
+			"amount": 0.54166
 		},
 		"items": {
 			"items": [
