@@ -12,7 +12,6 @@
 	"craftTime": 15,
 	"updateEffect": "fuelburn",
 	"consumes": {
-		"power": 0.0,
 		"items": {
 			"items": [
 				{ "item": "petroleum-container", "amount": 1 }
