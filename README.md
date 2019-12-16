@@ -58,10 +58,6 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Takes 24 Steel
   - Health: 2000
 
-- Phase Extractor:
-  - Input: 1 Plastanium + 3 Thorium
-  - Output: 1 Phase Fabric
-
 - Coal Liquifier:
   - Input: 1 Coal + 1 Water
   - Output: 2 Oil
@@ -179,7 +175,6 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Heavy Oil Container (made by Oil Distiller)
 - Plastic (made by Plastic Forge)
 - Asphalt (made by Asphalt Mixer)
-- Phase Thread (made by Phase Extractor)
 
 
 
@@ -218,5 +213,5 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
 
-- Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
-- Phase Weavers now take 2 Phase Threads + 1 Heavy Oil
+- Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
+- Phase Weavers now take 1 Plastanium + 3 Thorium
