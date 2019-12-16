@@ -4,6 +4,7 @@
 	"description": "A large wall made of asphalt. This wall will deform when hit because of it's oily properties and therfore has a lot of health.",
 	"health": 2500,
 	"size": 2,
+	"buildCostMultiplier": 0.5,
 	"requirements": [
 		{ "item": "asphalt", "amount": 80 }
 	],
