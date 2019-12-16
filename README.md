@@ -206,8 +206,9 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 #### Other changes:
 
-- Hail guns now have a range of 35 blocks
+- Hail turrets now have a range of 35 blocks
 - Salvos now take about 1 second to build
+- Wave turrets now take petroleum, light oil, and heavy oil as ammo
 - Items now take 10 frames instead of 26 frames to pass through junctions
 - Junctions now have an item capacity of 2 instead of 6
 - Seperators can now output iron and aluminum ore too

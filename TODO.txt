@@ -1,7 +1,6 @@
 TODO:
 
 Add more pages to the wiki
-Waves machines taking oils as ammo
 Steel as ammo
 Napalm bombers?
 Fix conveyor graphics (something is very wrong with my image editting software)
