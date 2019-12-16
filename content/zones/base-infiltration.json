@@ -1,6 +1,6 @@
 {
-	"name": "Base Infiltration",
-	"description": "You are being sent deirectly into an enemy base. Destroy it before backup arrives.",
+	"name": "Base Infiltration (broken again)",
+	"description": "You are being sent deirectly into an enemy base. Destroy it before backup arrives. This map is broken and IDk if I'll fix it again.",
 	"loadout": "basicFoundation",
 	"startingItems": [
 		{"item": "copper", "amount": 300},
