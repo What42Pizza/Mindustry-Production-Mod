@@ -2,6 +2,8 @@ TODO:
 
 Add more pages to the wiki
 Steel as ammo
+Edit in-game maps?
+Tweak Plastic Fighter sprite
 Napalm bombers?
 Fix conveyor graphics (something is very wrong with my image editting software)
 Fix Base Infiltration
