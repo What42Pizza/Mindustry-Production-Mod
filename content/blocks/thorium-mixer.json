@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Thorium Mixer",
-	"description": "Mixes Thorium and Heavy Oil into Thorium Sludge.",
+	"description": "Mixes thorium and heavy oil into thorium sludge.",
 	"outputLiquid": {"liquid": "thorium-sludge", "amount": 15.0},
 	"size": 2,
 	"hasPower": true,

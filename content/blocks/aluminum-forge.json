@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Aluminum Forge",
-	"description": "Uses massive amounts of electricity to smelt Aluminum Ore into Aluminum.",
+	"description": "Uses massive amounts of electricity to smelt aluminum ore into aluminum.",
 	"outputItem": {"item": "aluminum", "amount": "1"},
 	"size": 2,
 	"hasPower": true,

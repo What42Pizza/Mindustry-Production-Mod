@@ -1,6 +1,6 @@
 {
 	"name": "Plastic Fighter Factory",
-	"description": "Makes Plastic Fighting units. These things are very fast but have almost no health.",
+	"description": "Makes plastic fighter units. These things are very fast but have almost no health.",
 	"type": "UnitFactory",
 	"unitType": "plastic-fighter",
 	"size": 2,

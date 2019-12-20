@@ -1,7 +1,7 @@
 {
 	"type": "flyingUnit",
 	"name": "Plastic Fighter",
-	"description": "Plastic Fighters are very fast but have almost no health.",
+	"description": "Plastic fighters are very fast but have almost no health.",
 	"speed": 1,
 	"maxVelocity": 3,
 	"flying": true,

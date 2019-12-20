@@ -1,6 +1,6 @@
 {
 	"name": "Petroleum",
-	"description": "Petroleum is used for power.",
+	"description": "Petroleum is used a liquid made by distilling crude oil. It is mostly mosed to generate power and create plastic.",
 	"temperature": 1.0,
 	"viscosity": 0.8,
 	"effect": "burning",

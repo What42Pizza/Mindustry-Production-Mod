@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Advanced Heavy Oil Cracker",
-	"description": "This cracks Heavy Oil into Light Oil using the Cracking Catalyst.",
+	"description": "This cracks heavy oil into light oil using cracking catalyst.",
 	"outputLiquid": {"liquid": "light-oil", "amount": 6.6666},
 	"size": 2,
 	"hasPower": true,

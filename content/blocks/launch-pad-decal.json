@@ -1,6 +1,6 @@
 {
 	"type": "Incinerator",
-	"name": "Launch Pad",
+	"name": "Launch Pad Decal",
 	"description": "This block is only used in Base Infiltration and should not be built by the player.",
 	"size": 3,
 	"effect": "none",

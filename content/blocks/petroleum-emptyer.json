@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Petroleum Emptyer",
-	"description": "This takes the Petroleum out of Petroleum Containers. It is suggested that you place this directly adjacent to an oil distiller.",
+	"description": "This takes the petroleum out of petroleum containers. It is suggested that you place this directly adjacent to an oil distiller.",
 	"outputLiquid": {"liquid": "petroleum", "amount": 5.0},
 	"size": 1,
 	"hasPower": false,

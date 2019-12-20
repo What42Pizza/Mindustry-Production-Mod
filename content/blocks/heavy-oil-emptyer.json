@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Heavy Oil Emptyer",
-	"description": "This takes the Heavy Oil out of Heavy Oil Containers. It is suggested that you place this directly adjacent to an oil distiller.",
+	"description": "This takes the heavy oil out of heavy oil containers. It is suggested that you place this directly adjacent to an oil distiller.",
 	"outputLiquid": {"liquid": "heavy-oil", "amount": 5.0},
 	"size": 1,
 	"hasPower": false,
