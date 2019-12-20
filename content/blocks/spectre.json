@@ -1,0 +1,17 @@
+{
+	"ammo": {
+		"graphite": "standardDenseBig",
+		"pyratite": "standardIncendiaryBig",
+		"thorium": "standardThoriumBig",
+		"steel": {
+			"type": "BasicBulletType",
+			"damage": 50.0,
+			"ammoMultiplier": 3,
+			"lifetime": 45,
+			"speed": 5.5,
+			"bulletWidth": 15.0,
+			"bulletHieght": 21.0,
+			"shootEffect": "shootBig"
+		}
+	}
+}

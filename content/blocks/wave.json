@@ -1,29 +1,9 @@
 {
 	"ammo": {
-		"water": {
-			"type": "LiquidBulletType",
-			"liquid": "water",
-			"knockback": 0.7
-		},
-		"slag": {
-			"type": "liquidBulletType",
-			"liquid": "slag",
-			"damage": 4,
-			"knockback": 0.6,
-			"status": "burning"
-		},
-		"cryofluid": {
-			"type": "LiquidBulletType",
-			"liquid": "cryofluid",
-			"knockback": 0.6,
-			"status": "freezing"
-		},
-		"oil": {
-			"type": "LiquidBulletType",
-			"liquid": "oil",
-			"knockback": 0.6,
-			"status": "tarred"
-		},
+		"water": "waterShot",
+		"slag": "slagShot",
+		"cryofluid": "cryoShot",
+		"oil": "oilShot",
 		"petroleum": {
 			"type": "LiquidBulletType",
 			"liquid": "petroleum",

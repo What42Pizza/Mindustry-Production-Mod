@@ -1,3 +1,15 @@
 {
-	"range": 280
+	"range": 280,
+	"ammo": {
+		"graphite": "artilleryDense",
+		"silicon": "artilleryHoming",
+		"pyratite": "artilleryIncendiary",
+		"steel": {
+			"type": "ArtilleryBulletType",
+			"damage": 0,
+			"splashDamage": 33.0,
+			"splashDamageRadius": 25.0,
+			"knockback": 0.8
+		}
+	}
 }
