@@ -1,6 +1,6 @@
 {
 	"name": "Thorium Sludge",
-	"description": "Thorium Sludge is made from Thorium and Heavy Oi;. It it used to grow Thorium Crystals, which can then be harvested.",
+	"description": "Thorium Sludge is made from Thorium and Heavy Oil. It is used to grow Thorium Crystals, which can then be harvested.",
 	"temperature": 0.1,
 	"viscosity": 0.1,
 	"effect": "none",
