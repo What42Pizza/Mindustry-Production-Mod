@@ -42,14 +42,6 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Input: 2 Iron + 1 Coal
   - Output: 2 Steel
 
-- Thorium Crystalizer:
-  - Input: 2 Titanium + 10 Thorium Sludge
-  - Output: 2 Thorium
-
-- Thorium Mixer:
-  - Input: 5 Heavy Oil + 1 Thorium
-  - Output: 15 Thorium Sludge
-
 - Aluminum Forge:
   - Input: 2 Aluminum Ore
   - Output: 1 Aluminum
@@ -62,13 +54,29 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Takes 24 Steel
   - Health: 2000
 
+- Iron Exctractor
+  - Input: 3 Water
+  - Output: 1 iron
+
+- Aluminum Ore Extractor
+  - Input: 3 Water
+  - Output: 1 Aluminum Ore
+
+- Thorium Crystalizer:
+  - Input: 2 Titanium + 10 Thorium Sludge
+  - Output: 2 Thorium
+
+- Thorium Mixer:
+  - Input: 5 Heavy Oil + 1 Thorium
+  - Output: 15 Thorium Sludge
+
 - Coal Liquifier:
   - Input: 1 Coal + 1 Water
   - Output: 2 Oil
 
 - Oil Distiller:
   - Input: 20 Oil
-  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second, except sludge container, which gives about 6.25 per second)
+  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second, except sludge container, for which it gives about 6.25 per second)
 
 - Petroleum Emptyer
   - Input: 1 Petrolem Container
@@ -218,6 +226,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Junctions now have an item capacity of 2 instead of 6
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
+- Oil extractors now output 10 oil instead of 15
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
