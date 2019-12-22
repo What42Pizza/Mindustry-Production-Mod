@@ -9,6 +9,11 @@ There are two ways to add this mod to your game.
 
 If you want to contact me, please do it over discord using @what42pizza.
 
+## Known Issues:
+
+- Whenever you import this mod on android, minudstry crashes. Re-openning mindustry will fix the issue and the mod will be loaded.
+
+
 
 
 
@@ -227,6 +232,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
 - Oil extractors now output 10 oil instead of 15
+- Thorium reactors now produce 1320 pwoer per second instead of 840
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
