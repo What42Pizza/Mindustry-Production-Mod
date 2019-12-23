@@ -8,7 +8,7 @@
 			"type": "ArtilleryBulletType",
 			"damage": 0,
 			"speed": 3.0,
-			"splashDamage": 33.0,
+			"splashDamage": 45.0,
 			"splashDamageRadius": 25.0,
 			"knockback": 0.8
 		}
