@@ -165,12 +165,17 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Does not connect to machines
 
 - Tiny Drill:
-  - Base Dill Speed: 0.03 Items / Second
+  - Base Dill Speed: 0.1 Items / Second
   - Size: 1x1
 
 - Tiny Pneumatic Drill:
-  - Base Dill Speed: 0.05 Items / Second
+  - Base Dill Speed: 0.14 Items / Second
   - Size: 1x1
+
+- Phase Drill
+  - Base Drill Speed: 6.67 Items / Second
+  - Size: 5x5
+  - Option Booster: 6 Cryofluid (2.56x speed)
 
 - Plastic Fighter Factory:
   - Input 10 Plastic + 5 Aluminum

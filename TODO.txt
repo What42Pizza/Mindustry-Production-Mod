@@ -1,6 +1,7 @@
 TODO:
 
 Add more pages to the wiki
+Redo example image
 Napalm bombers?
 Fix conveyor graphics (something is very wrong with my image editting software)
 Fix Base Infiltration?
