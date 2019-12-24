@@ -20,7 +20,7 @@
 		"power": 1.0,
 		"liquid": {
 			"liquid": "oil",
-			"amount": 1.0
+			"amount": 0.5
 		}
 	},
 	"requirements": [

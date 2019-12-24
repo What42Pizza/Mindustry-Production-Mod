@@ -17,7 +17,6 @@
 	"category": "units",
 	"research": "wraith-factory",
 	"requirements": [
-		{ "item": "thorium", "amount": 25 },
 		{ "item": "plastic", "amount": 50 },
 		{ "item": "titanium", "amount": 50 },
 		{ "item": "aluminum", "amount": 25 },
