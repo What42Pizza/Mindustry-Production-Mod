@@ -52,7 +52,7 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Output: 1 Aluminum
 
 - Thorium Mixer
-  - Input: 1 Thorium + 10 Heavy Oil
+  - Input: 1 Thorium + 1.2 Heavy Oil
   - Output: 15 Thorium Sludge
 
 - Thorium Crystallizer
@@ -74,14 +74,6 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Aluminum Ore Extractor
   - Input: 3 Water
   - Output: 1 Aluminum Ore
-
-- Thorium Crystalizer:
-  - Input: 2 Titanium + 10 Thorium Sludge
-  - Output: 2 Thorium
-
-- Thorium Mixer:
-  - Input: 5 Heavy Oil + 1 Thorium
-  - Output: 15 Thorium Sludge
 
 - Coal Liquifier:
   - Input: 1 Coal + 1 Water
@@ -244,7 +236,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Junctions now have an item capacity of 2 instead of 6
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
-- Oil extractors now output 10 oil instead of 15
+- Oil extractors now output 15 oil instead of 15
 - Thorium reactors now produce 1320 pwoer per second instead of 840
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
