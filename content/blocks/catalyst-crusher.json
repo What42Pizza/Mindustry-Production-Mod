@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Catalyst Crusher",
-	"description": "Crushes Aluminum into Cracking Catalyst.",
+	"description": "Crushes aluminum into cracking catalyst.",
 	"outputItem": {"item": "cracking-catalyst", "amount": "3"},
 	"size": 2,
 	"hasPower": true,

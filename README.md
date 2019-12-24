@@ -9,6 +9,11 @@ There are two ways to add this mod to your game.
 
 If you want to contact me, please do it over discord using @what42pizza.
 
+## Known Issues:
+
+- Sometimes when you import this mod on android, minudstry crashes. Re-openning mindustry will fix the issue and the mod will be loaded.
+
+
 
 
 
@@ -62,9 +67,21 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Takes 24 Steel
   - Health: 2000
 
-- Phase Extractor:
-  - Input: 1 Plastanium + 3 Thorium
-  - Output: 1 Phase Fabric
+- Iron Exctractor
+  - Input: 3 Water
+  - Output: 1 iron
+
+- Aluminum Ore Extractor
+  - Input: 3 Water
+  - Output: 1 Aluminum Ore
+
+- Thorium Crystalizer:
+  - Input: 2 Titanium + 10 Thorium Sludge
+  - Output: 2 Thorium
+
+- Thorium Mixer:
+  - Input: 5 Heavy Oil + 1 Thorium
+  - Output: 15 Thorium Sludge
 
 - Coal Liquifier:
   - Input: 1 Coal + 1 Water
@@ -72,7 +89,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Oil Distiller:
   - Input: 20 Oil
-  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second)
+  - Output: Petroleum Containers, Light Oil Containers, Heavy oil Containers, and Sludge Containers (about 2.5 of each per second, except sludge container, for which it gives about 6.25 per second)
 
 - Petroleum Emptyer
   - Input: 1 Petrolem Container
@@ -140,7 +157,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Petroleum Generator:
   - Takes 1 Pretroleum Container
-  - Output: 750 Power / Second
+  - Output: 600 Power / Second
 
 - Plastic Forge:
   - Input: 5 Petroleum
@@ -156,12 +173,17 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Does not connect to machines
 
 - Tiny Drill:
-  - Base Dill Speed: 0.03 Items / Second
+  - Base Dill Speed: 0.1 Items / Second
   - Size: 1x1
 
 - Tiny Pneumatic Drill:
-  - Base Dill Speed: 0.05 Items / Second
+  - Base Dill Speed: 0.14 Items / Second
   - Size: 1x1
+
+- Phase Drill
+  - Base Drill Speed: 6.67 Items / Second
+  - Size: 5x5
+  - Option Booster: 6 Cryofluid (2.56x speed)
 
 - Plastic Fighter Factory:
   - Input 10 Plastic + 5 Aluminum
@@ -183,7 +205,6 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Heavy Oil Container (made by Oil Distiller)
 - Plastic (made by Plastic Forge)
 - Asphalt (made by Asphalt Mixer)
-- Phase Thread (made by Phase Extractor)
 
 
 
@@ -192,6 +213,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Petroleum (made by Oil Distiller)
 - Light Oil (made by Oil Distiller)
 - Heavy Oil (made by Oil Distiller)
+- Thorium Sludge (made by Thorium Mixer)
 
 
 
@@ -208,18 +230,22 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Snow Sand
 - Pine (Deconstructable)
 - Map: Iron Mountains
-- Map: Base Infiltration
+- Map: Base Infiltration (Broken)
 
 
 
 #### Other changes:
 
-- Hail guns now have a range of 35 blocks
+- Hail turrets now have a range of 35 blocks
 - Salvos now take about 1 second to build
+- Wave turrets now take petroleum, light oil, and heavy oil as ammo
+- Hail turrets, Slavos, and Spectres now take steel as ammo
 - Items now take 10 frames instead of 26 frames to pass through junctions
 - Junctions now have an item capacity of 2 instead of 6
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
+- Oil extractors now output 10 oil instead of 15
+- Thorium reactors now produce 1320 pwoer per second instead of 840
 
-- Plastanium Compressors now take 2 titanium, 2 plastic, and 0.6 water
-- Phase Weavers now take 2 Phase Threads + 1 Heavy Oil
+- Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
+- Phase Weavers now take 1 Plastanium + 3 Thorium

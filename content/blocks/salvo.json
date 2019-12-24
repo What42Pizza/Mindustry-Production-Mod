@@ -1,3 +1,19 @@
 {
-	"buildCostMultiplier": 0.333
+	"buildCostMultiplier": 0.333,
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"thorium": "standardThorium",
+		"steel": {
+			"type": "BasicBulletType",
+			"damage": "20",
+			"ammoMultiplier": 5,
+			"speed": 6.0,
+			"bulletWidth": 9.0,
+			"bulletHeight": 12.0,
+			"lifetime": 25
+		},
+	}
 }

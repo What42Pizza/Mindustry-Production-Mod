@@ -1,10 +1,11 @@
 {
+	"description": "Produces plastanium from plastic and titanium. It takes 0 water because there is no way to completely remove liquid inputs from existing blocks."
 	"outputItem": { "item": "plastanium", "amount": 4 },
 	"consumes": {
 		"power": 3.0,
 		"liquid": {
 			"liquid": "water",
-			"amount": 0.01
+			"amount": 0.0
 		},
 		"items": {
 			"items": [

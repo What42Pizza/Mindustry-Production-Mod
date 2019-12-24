@@ -1,10 +1,10 @@
 {
 	"type": "Wall",
 	"name": "Asphalt Wall",
-	"description": "A wall made of asphalt. This wall will deform when hit because of it's oily properties and therfore has a lot of health.",
+	"description": "A wall made of asphalt. This wall will deform when hit instead of break because of it's oily properties and therfore has a lot of health.",
 	"health": 600,
 	"size": 1,
-	"buildCostMultiplier": 0.5,
+	"buildCostMultiplier": 1,
 	"requirements": [
 		{ "item": "asphalt", "amount": 20 }
 	],

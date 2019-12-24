@@ -10,7 +10,7 @@
 	"craftTime": 12,
 	"updateEffect": "smoke",
 	"consumes": {
-		"power": 1.66666,
+		"power": 1.0,
 		"items": {
 			"items": [
 				{"item": "sludge-container", "amount": 1}

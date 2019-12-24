@@ -1,6 +1,6 @@
 {
 	"name": "Iron Mountains",
-	"description": "This is the only location known to have raw iron.",
+	"description": "This is the first location known to have raw iron.",
 	"loadout": "basicFoundation",
 	"startingItems": [
 		{"item": "copper", "amount": 300},

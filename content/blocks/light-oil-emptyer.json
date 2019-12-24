@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Light Oil Emptyer",
-	"description": "This takes the Light Oil out of Light Oil Containers.",
+	"description": "This takes the light oil out of light oil containers. It is suggested that you place this directly adjacent to an oil distiller.",
 	"outputLiquid": {"liquid": "light-oil", "amount": 5.0},
 	"size": 1,
 	"hasPower": false,
@@ -12,7 +12,6 @@
 	"craftTime": 15,
 	"updateEffect": "fuelburn",
 	"consumes": {
-		"power": 0.0,
 		"items": {
 			"items": [
 				{ "item": "light-oil-container", "amount": 1 }

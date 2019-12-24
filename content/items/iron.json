@@ -1,6 +1,6 @@
 {
 	"type": "material",
 	"name": "Iron",
-	"description": "Iron is mined from the ground and can be used for building, ammo, and steel.",
+	"description": "Iron is mined from the ground and can be used for building and making steel.",
 	"color": "BEE1E8"
 }
