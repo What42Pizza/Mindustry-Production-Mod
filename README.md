@@ -242,6 +242,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Hail turrets, Slavos, and Spectres now take steel as ammo
 - Items now take 10 frames instead of 26 frames to pass through junctions
 - Junctions now have an item capacity of 2 instead of 6
+- Dagger factories can now have a max unit capacity of 3
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
 - Oil extractors now output 10 oil instead of 15

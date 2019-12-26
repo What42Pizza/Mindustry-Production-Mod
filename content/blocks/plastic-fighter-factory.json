@@ -4,7 +4,7 @@
 	"type": "UnitFactory",
 	"unitType": "plastic-fighter",
 	"size": 2,
-	"produceTime": 300,
+	"produceTime": 450,
 	"consumes": {
 		"power": 0.5,
 		"items": {
