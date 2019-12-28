@@ -136,12 +136,12 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Output: 5 Asphalt
 
 - Asphalt Wall:
-  - Takes 50 Asphalt
-  - Health: 600
+  - Takes 20 Asphalt
+  - Health: 650
 
 - Large Asphalt Wall:
-  - Takes 200 Asphalt
-  - Health: 2500
+  - Takes 80 Asphalt
+  - Health: 2600
 
 - Petroleum Filler:
   - Input: 1 Petroleum
