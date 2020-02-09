@@ -13,7 +13,7 @@
 	"updateEffect": "steam",
 	"consumes": {
 		"power": 0.166666,
-		"liquid": { "liquid": "petroleum", "amount": 0.08333 }
+		"liquid": { "liquid": "petroleum", "amount": 0.16666 }
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 50 },
