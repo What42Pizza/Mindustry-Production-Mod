@@ -9,13 +9,13 @@
 	"liquidCapacity": 10,
 	"hasItems": true,
 	"itemCapacity": 5,
-	"craftTime": 120,
+	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.5,
 		"liquid": {
 			"liquid": "petroleum",
-			"amount": 0.04166
+			"amount": 0.08333
 		}
 	},
 	"requirements": [

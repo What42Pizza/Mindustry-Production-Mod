@@ -13,7 +13,7 @@
 		"power": 1.0,
 		"items": {
 			"items": [
-				{ "item": "titanium", "amount": 2 }
+				{ "item": "titanium", "amount": 1 }
 			]
 		},
 		"liquid": {
