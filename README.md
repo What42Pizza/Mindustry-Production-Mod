@@ -1,4 +1,4 @@
-# Mindustry Production Mod
+# Mindustry Production Mod v3.6.7
 ![GitHub Logo](/sprites/git/example.png)
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
@@ -95,6 +95,26 @@ If you want to contact me, please do it over discord using @what42pizza.
   - Input: 1 Heavy Oil Container
   - Output: 5 Heavy Oil
 
+- Sludge Emptyer
+  - Input: 1 Sludge Container
+  - Output: 5 Sludge
+
+- Petroleum Filler:
+  - Input: 5 Petroleum
+  - Output: 1 Petroleum Container
+
+- Light Oil Filler:
+  - Input: 5 Light Oil
+  - Output: 1 Light Oil Container
+
+- Heavu Oil Filler:
+  - Input: 5 Heavy Oil
+  - Output: 1 Heavy Oil Container
+
+- Sludge Filler:
+  - Input: 5 Sludge
+  - Output: 1 Sludge Container
+
 - Sludge Burner:
   - Input: 1 Sludge Contianer
   - No output
@@ -142,10 +162,6 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Large Asphalt Wall:
   - Takes 80 Asphalt
   - Health: 2600
-
-- Petroleum Filler:
-  - Input: 1 Petroleum
-  - Output: 1 Petroleum Container
 
 - Petroleum Generator:
   - Takes 1 Pretroleum Container
@@ -205,6 +221,7 @@ If you want to contact me, please do it over discord using @what42pizza.
 - Petroleum (made by Oil Distiller)
 - Light Oil (made by Oil Distiller)
 - Heavy Oil (made by Oil Distiller)
+- Sludge (made by Oil Distiller)
 - Thorium Sludge (made by Thorium Mixer)
 
 
@@ -242,3 +259,5 @@ If you want to contact me, please do it over discord using @what42pizza.
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
+
+Last updated 3/9/20

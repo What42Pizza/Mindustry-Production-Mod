@@ -1,0 +1,8 @@
+{
+	"name": "Sludge",
+	"description": "Sludge is a by-product of petroleum.",
+	"temperature": 1.0,
+	"viscosity": 0.8,
+	"effect": "burning",
+	"color": "0F0A0F"
+}
