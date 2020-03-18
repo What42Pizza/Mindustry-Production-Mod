@@ -7,7 +7,7 @@ There are two ways to add this mod to your game.
 - Method 2: Open Mindustry, go to the mods, go to import from github, and enter "What42Pizza/mindustry-production-mod".
 
 
-If you want to contact me, please do it over discord using @what42pizza.
+If you want to contact me, please do it over discord (What42Pizza#0283).
 
 ## Known Issues:
 
