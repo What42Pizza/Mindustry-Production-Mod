@@ -4,7 +4,7 @@ This is a mod for Mindustry that gives you iron, steel, oil processing, and alte
 
 There are two ways to add this mod to your game.
 - Method 1: Find your mods folder and move the folder containing this file to the mods folder.
-- Method 2: Open Mindustry, go to the mods, go to import from github, and enter "What42Pizza/mindustry-production-mod".
+- Method 2: Open Mindustry, go to the mods, go to import from github, and enter "what42pizza/mindustry-production-mod".
 
 
 If you want to contact me, please do it over discord (What42Pizza#0283).
