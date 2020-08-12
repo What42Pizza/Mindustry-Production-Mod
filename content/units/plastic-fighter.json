@@ -5,7 +5,7 @@
 	"speed": 1,
 	"maxVelocity": 3,
 	"flying": true,
-	"health": 30,
+	"health": 50,
 	"engineOffset": 5.5,
 	"range": 140.0,
 	"weapon": {
@@ -15,7 +15,7 @@
 		"bullet": {
 			"lifetime": 50,
 			"speed": 4.0,
-			"damage": 2.5,
+			"damage": 3.0,
 			"hitTiles": true,
 			"frontColor": "ffffff",
 			"backColor": "ffffff",
