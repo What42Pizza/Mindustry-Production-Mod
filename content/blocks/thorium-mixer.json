@@ -19,7 +19,7 @@
 		},
 		"liquid": {
 			"liquid": "heavy-oil",
-			"amount": 0.02
+			"amount": 0.005
 		}
 	},
 	"requirements": [
