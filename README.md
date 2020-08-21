@@ -1,4 +1,4 @@
-# Mindustry Production Mod v3.6.10
+# Mindustry Production Mod v3.6.11
 ![GitHub Logo](/sprites/git/example.png)
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
