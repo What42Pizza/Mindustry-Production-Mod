@@ -11,7 +11,7 @@
 		"items": {
 			"items": [
 				{ "item": "titanium", "amount": 2 },
-				{ "item": "plastic", "amount": 2 }
+				{ "item": "plastic", "amount": 1 }
 			]
 		}
 	}
