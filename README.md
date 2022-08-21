@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # Mindustry Production Mod A4.0.0
+>>>>>>> 39d28f0e8d233fc025364367a5b90c41e667bb42
 ![GitHub Logo](/sprites/git/example.png)
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
@@ -255,9 +257,11 @@ If you want to contact me, please do so over discord (What42Pizza#0283).
 - Seperators can now output iron and aluminum ore too
 - Flying units are now made from aluminum instead of titanium
 - Oil extractors now output 15 oil instead of 15
-- Thorium reactors now produce 1320 pwoer per second instead of 840
+- Thorium reactors now produce 1320 power per second instead of 840
 
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
 
+<<<<<<< HEAD
 Last updated 8/21/22
+>>>>>>> 39d28f0e8d233fc025364367a5b90c41e667bb42

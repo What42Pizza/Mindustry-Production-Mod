@@ -2,7 +2,7 @@
 	"items": {
 		"items": [
 			{"item": "silicon", "amount": 40},
-			{"item": "aluminum", "amount": 30}
+			{"item": "aluminum", "amount": 15}
 		]
 	}
 }

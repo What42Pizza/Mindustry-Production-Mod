@@ -15,7 +15,7 @@
 		"power": 0.5,
 		"liquid": {
 			"liquid": "petroleum",
-			"amount": 0.08333
+			"amount": 0.05
 		}
 	},
 	"requirements": [

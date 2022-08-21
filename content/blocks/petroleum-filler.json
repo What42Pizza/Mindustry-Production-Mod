@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Pretroleum Filler",
+	"name": "Petroleum Filler",
 	"description": "Takes petroleum and puts it into containers.",
 	"outputItem": {"item": "petroleum-container", "amount": "1"},
 	"size": 2,
