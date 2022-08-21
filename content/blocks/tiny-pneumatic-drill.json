@@ -7,9 +7,10 @@
 	"drillTime": 423,
 	"consumes": {},
 	"requirements": [
-		{ "item": "copper", "amount": 5 },
-		{ "item": "graphite", "amount": 3 }
+		{"item": "copper"  , "amount": 5},
+		{"item": "graphite", "amount": 3}
 	],
 	"category": "production",
-	"research": "pneumatic-drill"
+	"research": "pneumatic-drill",
+	"drawMineItem": false
 }

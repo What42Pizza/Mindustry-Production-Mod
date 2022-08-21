@@ -1,5 +1,7 @@
 TODO:
 
+Add a way to get graphite w/o coal (titanium + lead?)
+Re-add research requirement for plastic-fighter-factory
 Add more pages to the wiki
 Redo example image
 Add Ukrainian bundle
