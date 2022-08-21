@@ -1,4 +1,4 @@
-# Mindustry Production Mod v3.6.7
+# Mindustry Production Mod A4.0.0
 ![GitHub Logo](/sprites/git/example.png)
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
@@ -7,7 +7,7 @@ There are two ways to add this mod to your game.
 - Method 2: Open Mindustry, go to the mods, go to import from github, and enter "what42pizza/mindustry-production-mod".
 
 
-If you want to contact me, please do it over discord (What42Pizza#0283).
+If you want to contact me, please do so over discord (What42Pizza#0283).
 
 ## Known Issues:
 
@@ -260,4 +260,4 @@ If you want to contact me, please do it over discord (What42Pizza#0283).
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
 
-Last updated 3/9/20
+Last updated 8/21/22

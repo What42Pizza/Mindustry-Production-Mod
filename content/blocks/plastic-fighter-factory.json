@@ -15,7 +15,7 @@
 		}
 	},
 	"category": "units",
-	"research": "wraith-factory",
+	//"research": "wraith-factory",
 	"requirements": [
 		{ "item": "plastic", "amount": 50 },
 		{ "item": "titanium", "amount": 50 },

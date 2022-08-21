@@ -1,5 +1,5 @@
 {
-	"type": "flyingUnit",
+	"type": "flying",
 	"name": "Plastic Fighter",
 	"description": "Plastic fighters are very fast but have almost no health.",
 	"speed": 1,
