@@ -1,10 +1,16 @@
 TODO:
 
-Add a way to get graphite w/o coal (titanium + lead?)
 Re-add research requirement for plastic-fighter-factory
 Add more pages to the wiki
 Redo example image
 Add Ukrainian bundle
-Fix conveyor graphics (something is very wrong with my image editting software)
-Fix Base Infiltration?
+Fix conveyor graphics (something is very wrong with my image editting software)  (it seems good?)
+Fix Base Infiltration? (probably not since I don't think there's any way for me to load it)
 Better graphics?
+More alternate recipes?
+
+
+
+Decided against:
+
+Add a way to get graphite w/o coal (titanium + lead?)  (there are already ways to get graphite w/o coal even on maps where there is no coal, you just have to get the right researches)

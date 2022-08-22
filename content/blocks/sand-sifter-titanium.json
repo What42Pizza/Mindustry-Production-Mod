@@ -13,13 +13,14 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 50 }
+				{"item": "sand", "amount": 50}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 }
+		{"item": "copper"  , "amount": 50},
+		{"item": "lead"    , "amount": 15},
+		{"item": "titanium", "amount": 20}
 	],
 	"category": "crafting",
 	"research": "sand-sifter-iron",
