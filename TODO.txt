@@ -1,5 +1,7 @@
 TODO:
 
+Fix plastic fighter factory textures
+Remove burner tops
 Re-add research requirement for plastic-fighter-factory
 Add more pages to the wiki
 Redo example image
