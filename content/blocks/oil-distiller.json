@@ -3,10 +3,10 @@
 	"name": "Oil Distiller",
 	"description": "Distills oil into petroleum, light oil, heavy oil, and sludge.",
 	"results": [
-		{"item": "petroleum-container", "amount": 2},
+		{"item": "petroleum-container", "amount": 3},
 		{"item": "light-oil-container", "amount": 2},
 		{"item": "heavy-oil-container", "amount": 2},
-		{"item": "sludge-container", "amount": 5}
+		{"item": "sludge-container"   , "amount": 4}
 	],
 	"size": 3,
 	"hasPower": true,
@@ -18,16 +18,13 @@
 	"updateEffect": "oily",
 	"consumes": {
 		"power": 1.0,
-		"liquid": {
-			"liquid": "oil",
-			"amount": 0.5
-		}
+		"liquid": {"liquid": "oil", "amount": 0.5}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 50 },
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "graphite", "amount": 25 },
+		{"item": "steel"   , "amount": 50},
+		{"item": "copper"  , "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "graphite", "amount": 25},
 	],
 	"category": "crafting",
 	"research": "separator",

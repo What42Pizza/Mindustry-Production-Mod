@@ -1,7 +1,6 @@
 TODO:
 
-Fix plastic fighter factory textures
-Remove burner tops
+Make sure air unit factories take aluminum
 Re-add research requirement for plastic-fighter-factory
 Add more pages to the wiki
 Redo example image

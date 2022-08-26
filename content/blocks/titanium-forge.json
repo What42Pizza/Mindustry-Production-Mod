@@ -14,14 +14,14 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "lead", "amount": 1 },
-				{ "item": "graphite", "amount": 3 }
+				{"item": "lead"    , "amount": 3},
+				{"item": "graphite", "amount": 5}
 			]
 		}
 	},
 	"requirements": [
 		{ "item": "steel", "amount": 50 },
-		{ "item": "copper", "amount": 50 },
+		{ "item": "titanium", "amount": 50 },
 		{ "item": "lead", "amount": 25 },
 		{ "item": "silicon", "amount": 25 }
 	],
