@@ -4,7 +4,7 @@ Redo building recipes
 Redo researches
 Make asphault walls more purple and steel walls more blue
 Make the extractors rotate like the oil extractor?
-Remove files in /content that don't do anything
+Re-add the functionality of useless files
 Make sure air unit factories take aluminum
 Update the readme
 Add more pages to the wiki

@@ -1,0 +1,34 @@
+{
+	"name": "Sludge Press",
+	"description": "Extracts the oil from sludge and leaves behind sand.",
+	"type": "GenericCrafter",
+	"outputLiquid": {"liquid": "oil", "amount": "2"},
+	"outputItem": {"item": "sand", "amount": "1"},
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{"item": "sludge-container", "amount": 2}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "copper"  , "amount": 50},
+		{"item": "titanium", "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "graphite", "amount": 25},
+		{"item": "plastic" , "amount": 25}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 10,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 60,
+	"updateEffect": "oily",
+	"category": "crafting",
+	"research": "plastic-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

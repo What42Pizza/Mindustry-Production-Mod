@@ -1,0 +1,27 @@
+{
+	"name": "Sludge Filler",
+	"description": "Takes sludge and puts it into containers.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "sludge-container", "amount": "1"},
+	"consumes": {
+		"power": 0.166666,
+		"liquid": {"liquid": "sludge", "amount": 0.16666}
+	},
+	"requirements": [
+		{"item": "copper" , "amount": 50},
+		{"item": "lead"   , "amount": 25},
+		{"item": "plastic", "amount": 25}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 10,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 30,
+	"updateEffect": "steam",
+	"category": "crafting",
+	"research": "petroleum-filler",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

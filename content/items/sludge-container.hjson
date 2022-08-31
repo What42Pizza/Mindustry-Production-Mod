@@ -1,0 +1,6 @@
+{
+	"name": "Sludge Container",
+	"description": "This is a container of sludge left over from oil distillation",
+	"type": "resource",
+	"color": "000000"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Asphalt",
+	"description": "Asphalt is rocks mixed with an oily sludge. It deforms when hit instead of breaking, making it great for building walls.",
+	"type": "material",
+	"color": "0A0514"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Iron",
+	"description": "Iron is mined from the ground and can be used for building and making steel.",
+	"type": "material",
+	"color": "BEE1E8"
+}

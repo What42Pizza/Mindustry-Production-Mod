@@ -1,0 +1,25 @@
+{
+	"name": "Heavy Oil Burner",
+	"description": "Burns off excess heavy oil created from oil distillation.",
+	"type": "GenericSmelter",
+	"consumes": {
+		"power": 1.0,
+		"liquid": {"liquid": "heavy-oil", "amount": 0.25}
+	},
+	"requirements": [
+		{"item": "copper"   , "amount": 50},
+		{"item": "lead"     , "amount": 25},
+		{"item": "metaglass", "amount": 25}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 12,
+	"updateEffect": "smoke",
+	"category": "crafting",
+	"research": "light-oil-burner",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Large Asphalt Wall",
+	"description": "A large wall made of asphalt. This wall will deform instead of break when hit because of it's oily properties and therfore has a lot of health.",
+	"type": "Wall",
+	"requirements": [
+		{"item": "asphalt", "amount": 80}
+	],
+	"health": 2600,
+	"size": 2,
+	"buildCostMultiplier": 2.5,
+	"research": "asphalt-wall",
+	"category": "defense"
+}

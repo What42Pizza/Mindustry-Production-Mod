@@ -1,0 +1,29 @@
+{
+	"name": "Light Oil Emptyer",
+	"description": "This takes the light oil out of light oil containers. It is suggested that you place this directly adjacent to an oil distiller.",
+	"type": "GenericCrafter",
+	"outputLiquid": {"liquid": "light-oil", "amount": 6.0},
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "light-oil-container", "amount": 1}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "copper", "amount": 50},
+		{"item": "lead"  , "amount": 15}
+	],
+	"size": 1,
+	"hasPower": false,
+	"hasLiquids": true,
+	"LiquidCapacity": 10.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 15,
+	"updateEffect": "fuelburn",
+	"category": "crafting",
+	"research": "petroleum-emptyer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

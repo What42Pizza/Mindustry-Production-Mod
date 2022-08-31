@@ -1,0 +1,13 @@
+{
+	"name": "Steel Wall",
+	"description": "A wall made of hard steel.",
+	"type": "Wall",
+	"requirements": [
+		{"item": "steel", "amount": 6}
+	],
+	"health": 500,
+	"size": 1,
+	"buildCostMultiplier": 5,
+	"research": "titanium-wall",
+	"category": "defense"
+}

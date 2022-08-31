@@ -1,0 +1,24 @@
+{
+	"name": "Phase Drill",
+	"description": "This is the best drill you can get (without other mods).",
+	"type": "Drill",
+	"consumes": {
+		"power": 3.5,
+		"liquid": {
+			"liquid": "cryofluid", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{"item": "surge-alloy" , "amount": 75},
+		{"item": "phase-fabric", "amount": 50},
+		{"item": "thorium"     , "amount": 50}
+	],
+	"size": 5,
+	"tier": 4,
+	"drillTime": 225,
+	"category": "production",
+	"research": "blast-drill"
+}

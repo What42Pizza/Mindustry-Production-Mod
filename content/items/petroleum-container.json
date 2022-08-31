@@ -1,6 +1,0 @@
-{
-	"type": "resource",
-	"name": "Petroleum Container",
-	"description": "This is petroleum, but in a container. It is used for power generation in petroleum generators because generators cannot take only liquids.",
-	"color": "c4c04f"
-}

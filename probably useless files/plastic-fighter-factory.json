@@ -1,0 +1,25 @@
+{
+	"name": "Plastic Fighter Factory",
+	"description": "Makes plastic fighter units. These things are very fast but have almost no health.",
+	"type": "UnitFactory",
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "plastic" , "amount": 10},
+				{"item": "aluminum", "amount": 5 }
+			]
+		}
+	},
+	"requirements": [
+		{"item": "plastic" , "amount": 50},
+		{"item": "titanium", "amount": 50},
+		{"item": "aluminum", "amount": 25},
+		{"item": "silicon" , "amount": 25}
+	],
+	"unitType": "plastic-fighter",
+	"size": 2,
+	"produceTime": 450,
+	"category": "units"
+	//"research": "wraith-factory",
+}

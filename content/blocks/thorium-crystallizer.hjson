@@ -1,0 +1,30 @@
+{
+	"name": "Thorium Crystallizer",
+	"description": "Creates thorium crystals using titanium and thorium sludge.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "thorium", "amount": 2},
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "titanium", "amount": 3}
+			]
+		},
+		"liquid": {"liquid": "thorium-sludge", "amount": 0.08333}
+	},
+	"requirements": [
+		{"item": "plastic" , "amount": 100},
+		{"item": "thorium" , "amount": 100},
+		{"item": "aluminum", "amount":  50},
+		{"item": "graphite", "amount":  10}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 60,
+	"updateEffect": "pulverize",
+	"category": "crafting",
+	"research": "titanium-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

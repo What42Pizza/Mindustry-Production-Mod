@@ -1,0 +1,32 @@
+{
+	"name": "Base Infiltration (broken again)",
+	"description": "You are being sent deirectly into an enemy base. Destroy it before backup arrives. This map is broken and IDK if I'll fix it (again).",
+	"requirements": [
+		{
+			"type": "ZoneWave",
+			"zone": "saltFlats", 
+			"wave": 30
+		},
+		{
+			"type": "Unlock",
+			"block": "laser-drill"
+		},
+		{
+			"type": "Unlock",
+			"block": "turbine-generator"
+		},
+		{
+			"type": "Unlock",
+			"block": "dagger-factory"
+		}
+	],
+	"startingItems": [
+		{"item": "copper", "amount": 300},
+		{"item": "lead", "amount": 200},
+		{"item": "graphite", "amount": 100}
+	],
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand", "aluminum"],
+	"loadout": "basicFoundation",
+	"conditionWave": 10,
+	"launchPeriod": 10
+}

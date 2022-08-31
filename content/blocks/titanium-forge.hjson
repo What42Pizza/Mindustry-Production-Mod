@@ -1,0 +1,32 @@
+{
+	"name": "Titanium Forge",
+	"description": "Creates titanium from lead and graphite.",
+	"type": "GenericSmelter",
+	"outputItem": {"item": "titanium", "amount": "1"},
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{"item": "lead"    , "amount": 3},
+				{"item": "graphite", "amount": 5}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "steel"   , "amount": 50},
+		{"item": "titanium", "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "silicon" , "amount": 25}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 90,
+	"updateEffect": "smeltsmoke",
+	"category": "crafting",
+	"research": "steel-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

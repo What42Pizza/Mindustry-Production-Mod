@@ -1,0 +1,27 @@
+{
+	"name": "Iron Mountains",
+	"description": "This is the first location known to have raw iron.",
+	"requirements": [
+		{
+			"type": "ZoneWave",
+			"zone": "groundZero", 
+			"wave": 25
+		},
+		{
+			"type": "Unlock",
+			"block": "graphite-press"
+		},
+		{
+			"type": "Unlock",
+			"block": "pneumatic-drill"
+		}
+	],
+	"startingItems": [
+		{"item": "copper", "amount": 300},
+		{"item": "lead", "amount": 200}
+	],
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand"],
+	"loadout": "basicFoundation",
+	"conditionWave": 10,
+	"launchPeriod": 10
+}

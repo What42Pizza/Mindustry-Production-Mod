@@ -1,0 +1,29 @@
+{
+	"name": "Scrap Maker",
+	"description": "Turns copper and lead into scrap.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "scrap", "amount": 2},
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{"item": "copper", "amount": 2},
+				{"item": "lead"  , "amount": 1}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "copper", "amount": 50},
+		{"item": "lead"  , "amount": 15},
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"category": "crafting",
+	"research": "pulverizer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

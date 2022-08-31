@@ -1,0 +1,27 @@
+{
+	"name": "Bauxite Bay",
+	"description": "The enemy is starting to mine aluminum ore (also known as bauxite) here. Stop them from advancing their technology.",
+	"requirements": [
+		{
+			"type": "ZoneWave",
+			"zone": "ruinousShores", 
+			"wave": 30,
+		},
+		{
+			"type": "Unlock",
+			"block": "aluminum-forge",
+		},
+		{
+			"type": "Unlock",
+			"block": "steel-forge"
+		}
+	],
+	"startingItems": [
+		{"item": "copper", "amount": 300},
+		{"item": "lead", "amount": 200}
+	],
+	"resources": ["copper", "lead", "coal", "iron", "titanium", "sand", "aluminum-ore"],
+	"loadout": "basicFoundation",
+	"conditionWave": 10,
+	"launchPeriod": 10
+}

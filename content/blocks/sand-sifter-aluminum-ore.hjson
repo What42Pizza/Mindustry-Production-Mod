@@ -1,0 +1,29 @@
+{
+	"name": "Sand Sifter: Aluminum Ore",
+	"description": "Sifts aluminum ore out of large amounts of sand.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "aluminum-ore", "amount": 1},
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{"item": "sand", "amount": 10}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "copper"      , "amount": 50},
+		{"item": "lead"        , "amount": 15},
+		{"item": "aluminum-ore", "amount": 20}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 20,
+	"craftTime": 120,
+	"updateEffect": "smeltsmoke",
+	"category": "crafting",
+	"research": "sand-sifter-iron",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

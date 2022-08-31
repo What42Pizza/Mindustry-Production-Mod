@@ -1,6 +1,0 @@
-{
-	"type": "resource",
-	"name": "Light Oil Container",
-	"description": "This is a container of light oil that comes from ditilling crude oil. It is stored in a container because blocks of type 'Seperator' cannot output liquids.",
-	"color": "84800f"
-}

@@ -1,0 +1,32 @@
+{
+	"name": "Asphalt Mixer",
+	"description": "Mixes leftover sludge with sand to create asphalt.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "asphalt", "amount": "3"},
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "sludge-container", "amount": 3},
+				{"item": "sand"            , "amount": 5}
+			]
+		}
+	},
+	"requirements": [
+		{"item": "copper"   , "amount": 50},
+		{"item": "lead"     , "amount": 25},
+		{"item": "plastic"  , "amount": 25},
+		{"item": "metaglass", "amount": 25}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 60,
+	"updateEffect": "oily",
+	"category": "crafting",
+	"research": "sludge-press",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

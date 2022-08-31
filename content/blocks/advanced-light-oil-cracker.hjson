@@ -1,0 +1,33 @@
+{
+	"name": "Advanced Light Oil Cracker",
+	"description": "This cracks light oil into petroleum using cracking catalyst.",
+	"type": "GenericCrafter",
+	"outputLiquid": {"liquid": "petroleum", "amount": 12},
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{"item": "cracking-catalyst", "amount": "1"}
+			]
+		},
+		"liquid": {"liquid": "light-oil", "amount": 0.5}
+	},
+	"requirements": [
+		{"item": "copper"  , "amount": 25},
+		{"item": "graphite", "amount": 25},
+		{"item": "steel"   , "amount": 50},
+		{"item": "plastic" , "amount": 50}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"LiquidCapacity": 60.0,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 20,
+	"updateEffect": "steam",
+	"category": "crafting",
+	"research": "light-oil-cracker",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

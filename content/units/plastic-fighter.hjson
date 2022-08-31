@@ -1,0 +1,31 @@
+{
+	"name": "Plastic Fighter",
+	"description": "Plastic fighters are very fast but have almost no health.",
+	"type": "flying",
+	"weapon": {
+		"name": "plastic-fighter-gun",
+		"length": 0.0,
+		"reload": 1.0,
+		"bullet": {
+			"lifetime": 50,
+			"speed": 4.0,
+			"damage": 3.0,
+			"hitTiles": true,
+			"frontColor": "ffffff",
+			"backColor": "ffffff",
+			"homingPower": 0,
+			"homingRange": 0,
+			"fragBullets": 0
+		}
+	},
+	"speed": 1,
+	"maxVelocity": 3,
+	"flying": true,
+	"health": 50,
+	"engineOffset": 5.5,
+	"range": 140.0,
+	"engineSize": 0.1,
+	"buildPower": 0,
+	"minePower": 0,
+	"itemCapacity": 0
+}

@@ -1,0 +1,32 @@
+{
+	"name": "Thorium Mixer",
+	"description": "Mixes thorium and heavy oil into thorium sludge.",
+	"type": "GenericCrafter",
+	"outputLiquid": {"liquid": "thorium-sludge", "amount": 30.0},
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{"item": "thorium", "amount": 1}
+			]
+		},
+		"liquid": {"liquid": "heavy-oil", "amount": 0.005}
+	},
+	"requirements": [
+		{"item": "steel"   , "amount": 50},
+		{"item": "aluminum", "amount": 50},
+		{"item": "plastic" , "amount": 25},
+		{"item": "graphite", "amount": 10}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"liquidCapacity": 30.0,
+	"craftTime": 60,
+	"updateEffect": "none",
+	"category": "crafting",
+	"research": "titanium-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
