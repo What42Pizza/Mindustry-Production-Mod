@@ -2,14 +2,14 @@
 	"type": "GenericCrafter",
 	"name": "Coal Liquifier",
 	"description": "Extracts the oil from coal.",
-	"outputLiquid": {"liquid": "oil", "amount": "5"},
+	"outputLiquid": {"liquid": "oil", "amount": "2"},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
 	"liquidCapacity": 10,
 	"hasItems": true,
 	"itemCapacity": 5,
-	"craftTime": 20,
+	"craftTime": 30,
 	"updateEffect": "oily",
 	"consumes": {
 		"power": 1.0,
@@ -21,11 +21,11 @@
 		"liquid": {"liquid": "water", "amount": 0.05}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "titanium", "amount": 25 },
-		{ "item": "plastic", "amount": 25 },
-		{ "item": "graphite", "amount": 10 }
+		{"item": "copper"  , "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "titanium", "amount": 25},
+		{"item": "plastic" , "amount": 25},
+		{"item": "graphite", "amount": 10}
 	],
 	"category": "crafting",
 	"research": "oil-extractor",

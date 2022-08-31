@@ -6,7 +6,7 @@
 	"size": 2,
 	"buildCostMultiplier": 2.5,
 	"requirements": [
-		{ "item": "asphalt", "amount": 80 }
+		{"item": "asphalt", "amount": 80}
 	],
 	"research": "asphalt-wall",
 	"category": "defense"

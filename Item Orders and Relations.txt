@@ -1,0 +1,10 @@
+copper           general building
+lead             pretty freaking random
+metaglass        liquids
+graphite         mid-to-late buldings; things that would have small parts
+titanium         things that need to be string
+thorium          advanced things
+silicon          complicated things
+plastanium       late-game, exoitc
+surge alloy      late-game, exciting
+phase fabric     late-game, mystical

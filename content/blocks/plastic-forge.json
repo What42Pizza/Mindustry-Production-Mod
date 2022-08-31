@@ -13,15 +13,12 @@
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.5,
-		"liquid": {
-			"liquid": "petroleum",
-			"amount": 0.05
-		}
+		"liquid": {"liquid": "petroleum", "amount": 0.05}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "silicon", "amount": 25 }
+		{"item": "copper" , "amount": 50},
+		{"item": "lead"   , "amount": 25},
+		{"item": "silicon", "amount": 25}
 	],
 	"category": "crafting",
 	"research": "oil-distiller",

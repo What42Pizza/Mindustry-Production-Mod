@@ -21,11 +21,11 @@
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 100 },
-		{ "item": "titanium", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "graphite", "amount": 25 },
-		{ "item": "plastic", "amount": 25 }
+		{"item": "copper"  , "amount": 50},
+		{"item": "titanium", "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "graphite", "amount": 25},
+		{"item": "plastic" , "amount": 25}
 	],
 	"category": "crafting",
 	"research": "plastic-forge",

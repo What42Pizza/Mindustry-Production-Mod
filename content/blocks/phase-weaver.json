@@ -3,8 +3,8 @@
 		"power": 3.0,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 3 },
-				{ "item": "plastanium", "amount": 1}
+				{"item": "thorium"   , "amount": 3},
+				{"item": "plastanium", "amount": 1}
 			]
 		}
 	}

@@ -13,14 +13,14 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "copper", "amount": 2 },
-				{ "item": "lead", "amount": 1 }
+				{"item": "copper", "amount": 2},
+				{"item": "lead"  , "amount": 1}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 },
+		{"item": "copper", "amount": 50},
+		{"item": "lead"  , "amount": 15},
 	],
 	"category": "crafting",
 	"research": "pulverizer",

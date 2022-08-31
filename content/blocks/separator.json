@@ -1,10 +1,10 @@
 {
 	"results": [
-		{ "item": "copper", "amount": 1 },
-		{ "item": "lead", "amount": 1 },
-		{ "item": "graphite", "amount": 1 },
-		{ "item": "titanium", "amount": 1 },
-		{ "item": "iron", "amount": 1 },
-		{ "item": "aluminum-ore", "amount": 2 }
+		{"item": "copper"      , "amount": 1},
+		{"item": "lead"        , "amount": 1},
+		{"item": "graphite"    , "amount": 1},
+		{"item": "titanium"    , "amount": 1},
+		{"item": "iron"        , "amount": 1},
+		{"item": "aluminum-ore", "amount": 2}
 	]
 }

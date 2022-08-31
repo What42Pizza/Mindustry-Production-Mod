@@ -13,21 +13,18 @@
 	"updateEffect": "steam",
 	"consumes": {
 		"power": 1.0,
-		"liquid": {
-			"liquid": "heavy-oil",
-			"amount": 0.25
-		},
 		"items": {
 			"items": [
-				{ "item": "cracking-catalyst", "amount": "1" }
+				{"item": "cracking-catalyst", "amount": "1"}
 			]
-		}
+		},
+		"liquid": {"liquid": "heavy-oil", "amount": 0.25}
 	},
 	"requirements": [
-		{ "item": "plastic", "amount": 100 },
-		{ "item": "steel", "amount": 50 },
-		{ "item": "copper", "amount": 25 },
-		{ "item": "graphite", "amount": 15 }
+		{"item": "copper"  , "amount": 25},
+		{"item": "graphite", "amount": 25},
+		{"item": "steel"   , "amount": 50},
+		{"item": "plastic" , "amount": 50}
 	],
 	"category": "crafting",
 	"research": "heavy-oil-cracker",

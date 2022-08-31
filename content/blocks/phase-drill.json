@@ -15,9 +15,9 @@
 		}
 	},
 	"requirements": [
-		{ "item": "surge-alloy", "amount": 75 },
-		{ "item": "phase-fabric", "amount": 50 },
-		{ "item": "thorium", "amount": 50 }
+		{"item": "surge-alloy" , "amount": 75},
+		{"item": "phase-fabric", "amount": 50},
+		{"item": "thorium"     , "amount": 50}
 	],
 	"category": "production",
 	"research": "blast-drill"

@@ -14,13 +14,13 @@
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "petroleum-container", "amount": 1 }
+				{"item": "petroleum-container", "amount": 1}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 }
+		{"item": "copper", "amount": 50},
+		{"item": "lead"  , "amount": 15}
 	],
 	"category": "crafting",
 	"research": "oil-distiller",

@@ -13,12 +13,12 @@
 	"updateEffect": "steam",
 	"consumes": {
 		"power": 0.166666,
-		"liquid": { "liquid": "heavy-oil", "amount": 0.08333 }
+		"liquid": {"liquid": "heavy-oil", "amount": 0.08333}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "plastic", "amount": 25 }
+		{"item": "copper" , "amount": 50},
+		{"item": "lead"   , "amount": 25},
+		{"item": "plastic", "amount": 25}
 	],
 	"category": "crafting",
 	"research": "petroleum-filler",

@@ -14,16 +14,15 @@
 		"power": 0.75,
 		"items": {
 			"items": [
-				{ "item": "iron", "amount": 2 },
-				{ "item": "coal", "amount": 1 }
+				{"item": "iron", "amount": 2},
+				{"item": "coal", "amount": 1}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "iron", "amount": 50 },
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "silicon", "amount": 25 }
+		{"item": "copper" , "amount": 50},
+		{"item": "lead"   , "amount": 25},
+		{"item": "silicon", "amount": 25}
 	],
 	"category": "crafting",
 	"research": "silicon-smelter",

@@ -4,15 +4,12 @@
 	"craftTime": 45,
 	"consumes": {
 		"power": 3.0,
-		"liquid": {
-			"liquid": "water",
-			"amount": 0.0
-		},
 		"items": {
 			"items": [
-				{ "item": "titanium", "amount": 2 },
-				{ "item": "plastic", "amount": 1 }
+				{"item": "titanium", "amount": 2},
+				{"item": "plastic" , "amount": 1}
 			]
-		}
+		},
+		"liquid": {"liquid": "water", "amount": 0.0}
 	}
 }

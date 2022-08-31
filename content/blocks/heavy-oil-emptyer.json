@@ -14,13 +14,13 @@
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "heavy-oil-container", "amount": 1 }
+				{"item": "heavy-oil-container", "amount": 1}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 }
+		{"item": "copper", "amount": 50},
+		{"item": "lead"  , "amount": 15}
 	],
 	"category": "crafting",
 	"research": "light-oil-emptyer",

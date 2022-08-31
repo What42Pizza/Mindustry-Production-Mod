@@ -10,15 +10,13 @@
 	"craftTime": 60,
 	"updateEffect": "pulverize",
 	"consumes": {
-		"liquid": {
-			"liquid": "water",
-			"amount": 0.05
-		}
+		"power": 1.0,
+		"liquid": {"liquid": "water", "amount": 0.05}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 15 },
-		{ "item": "graphite", "amount": 10 }
+		{"item": "copper"  , "amount": 50},
+		{"item": "lead"    , "amount": 15},
+		{"item": "graphite", "amount": 10}
 	],
 	"category": "production",
 	"research": "pneumatic-drill",

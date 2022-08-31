@@ -20,10 +20,10 @@
 		}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 50 },
-		{ "item": "titanium", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "silicon", "amount": 25 }
+		{"item": "steel"   , "amount": 50},
+		{"item": "titanium", "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "silicon" , "amount": 25}
 	],
 	"category": "crafting",
 	"research": "steel-forge",

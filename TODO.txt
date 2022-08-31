@@ -1,7 +1,12 @@
 TODO:
 
+Redo building recipes
+Redo researches
+Make asphault walls more purple and steel walls more blue
+Make the extractors rotate like the oil extractor?
+Remove files in /content that don't do anything
 Make sure air unit factories take aluminum
-Re-add research requirement for plastic-fighter-factory
+Update the readme
 Add more pages to the wiki
 Redo example image
 Add Ukrainian bundle

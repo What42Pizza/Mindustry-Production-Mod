@@ -14,15 +14,15 @@
 		"power": 5.5,
 		"items": {
 			"items": [
-				{ "item": "aluminum-ore", "amount": 2 }
+				{"item": "aluminum-ore", "amount": 2}
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 50 },
-		{ "item": "copper", "amount": 25 },
-		{ "item": "silicon", "amount": 15 },
-		{ "item": "graphite", "amount": 15 }
+		{"item": "copper"  , "amount": 25},
+		{"item": "graphite", "amount": 15},
+		{"item": "silicon" , "amount": 15},
+		{"item": "steel"   , "amount": 50}
 	],
 	"category": "crafting",
 	"research": "kiln",

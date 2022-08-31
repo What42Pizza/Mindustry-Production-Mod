@@ -3,8 +3,8 @@
 	"name": "Oil Distiller",
 	"description": "Distills oil into petroleum, light oil, heavy oil, and sludge.",
 	"results": [
-		{"item": "petroleum-container", "amount": 3},
-		{"item": "light-oil-container", "amount": 2},
+		{"item": "petroleum-container", "amount": 7},
+		{"item": "light-oil-container", "amount": 4},
 		{"item": "heavy-oil-container", "amount": 2},
 		{"item": "sludge-container"   , "amount": 4}
 	],

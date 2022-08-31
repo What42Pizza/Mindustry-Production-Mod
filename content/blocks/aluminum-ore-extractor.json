@@ -10,15 +10,13 @@
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"liquid": {
-			"liquid": "water",
-			"amount": 0.05
-		}
+		"power": 1.0,
+		"liquid": {"liquid": "water", "amount": 0.05}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "graphite", "amount": 25 }
+		{"item": "steel"   , "amount": 50},
+		{"item": "lead"    , "amount": 25},
+		{"item": "graphite", "amount": 25}
 	],
 	"category": "production",
 	"research": "iron-extractor",

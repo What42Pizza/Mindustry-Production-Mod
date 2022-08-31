@@ -1,7 +1,7 @@
 "consumes": {
 	"items": {
 		"items": [
-			{"item": "silicon", "amount": 40},
+			{"item": "silicon" , "amount": 40},
 			{"item": "aluminum", "amount": 15}
 		]
 	}

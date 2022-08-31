@@ -19,9 +19,9 @@
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "metaglass", "amount": 25 }
+		{"item": "copper"   , "amount": 50},
+		{"item": "lead"     , "amount": 25},
+		{"item": "metaglass", "amount": 25}
 	],
 	"category": "crafting",
 	"research": "graphite-press",

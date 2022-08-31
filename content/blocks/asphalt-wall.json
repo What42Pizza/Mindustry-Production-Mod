@@ -6,7 +6,7 @@
 	"size": 1,
 	"buildCostMultiplier": 1,
 	"requirements": [
-		{ "item": "asphalt", "amount": 20 }
+		{"item": "asphalt", "amount": 20}
 	],
 	"research": "titanium-wall",
 	"category": "defense"

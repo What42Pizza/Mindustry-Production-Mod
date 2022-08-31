@@ -4,7 +4,7 @@
 	"description": "This conveyor is slightly faster than a titanium conveyor, although it has less health.",
 	"health": "3",
 	"requirements": [
-		{"item": "plastic", "amount": 2},
+		{"item": "plastic" , "amount": 2},
 		{"item": "titanium", "amount": 1}
 	],
 	"category": "distribution",

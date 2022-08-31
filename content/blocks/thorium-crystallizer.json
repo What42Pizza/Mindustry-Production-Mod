@@ -10,23 +10,18 @@
 	"craftTime": 60,
 	"updateEffect": "pulverize",
 	"consumes": {
-		"power": 1.0,
 		"items": {
 			"items": [
-				{ "item": "titanium", "amount": 1 }
+				{"item": "titanium", "amount": 3}
 			]
 		},
-		"liquid": {
-			"liquid": "thorium-sludge",
-			"amount": 0.16667
-		}
+		"liquid": {"liquid": "thorium-sludge", "amount": 0.08333}
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 100 },
-		{ "item": "plastic", "amount": 100 },
-		{ "item": "thorium", "amount": 100 },
-		{ "item": "aluminum", "amount": 50 },
-		{ "item": "graphite", "amount": 10 }
+		{"item": "plastic" , "amount": 100},
+		{"item": "thorium" , "amount": 100},
+		{"item": "aluminum", "amount":  50},
+		{"item": "graphite", "amount":  10}
 	],
 	"category": "crafting",
 	"research": "titanium-forge",

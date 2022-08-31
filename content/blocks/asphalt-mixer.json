@@ -14,16 +14,16 @@
 		"items": {
 			"items": [
 				{"item": "sludge-container", "amount": 3},
-				{"item": "sand", "amount": 5}
+				{"item": "sand"            , "amount": 5}
 			]
 		}
 	},
-	"outputItem": {"item": "asphalt", "amount": "5"},
+	"outputItem": {"item": "asphalt", "amount": "3"},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "lead", "amount": 25 },
-		{ "item": "plastic", "amount": 25 },
-		{ "item": "metaglass", "amount": 25 }
+		{"item": "copper"   , "amount": 50},
+		{"item": "lead"     , "amount": 25},
+		{"item": "plastic"  , "amount": 25},
+		{"item": "metaglass", "amount": 25}
 	],
 	"category": "crafting",
 	"research": "sludge-press",

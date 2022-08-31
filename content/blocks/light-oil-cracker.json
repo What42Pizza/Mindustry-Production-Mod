@@ -12,16 +12,13 @@
 	"updateEffect": "steam",
 	"consumes": {
 		"power": 1.0,
-		"liquid": {
-			"liquid": "light-oil",
-			"amount": 0.4167
-		}
+		"liquid": {"liquid": "light-oil", "amount": 0.4167}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 50 },
-		{ "item": "steel", "amount": 25 },
-		{ "item": "plastic", "amount": 25 },
-		{ "item": "lead", "amount": 15 }
+		{"item": "copper" , "amount": 50},
+		{"item": "steel"  , "amount": 25},
+		{"item": "plastic", "amount": 25},
+		{"item": "lead"   , "amount": 15}
 	],
 	"category": "crafting",
 	"research": "light-oil-burner",
