@@ -9,16 +9,16 @@
 				{"item": "titanium", "amount": 3}
 			]
 		},
-		"liquid": {"liquid": "thorium-sludge", "amount": 0.08333}
+		"liquid": {"liquid": "thorium-sludge", "amount": 0.1}
 	},
 	"requirements": [
-		{"item": "plastic" , "amount": 100},
+		{"item": "steel"   , "amount":  50},
 		{"item": "thorium" , "amount": 100},
-		{"item": "aluminum", "amount":  50},
-		{"item": "graphite", "amount":  10}
+		{"item": "silicon" , "amount": 100},
+		{"item": "plastic" , "amount": 100}
 	],
 	"size": 2,
-	"hasPower": true,
+	"hasPower": false,
 	"hasItems": true,
 	"itemCapacity": 10,
 	"craftTime": 60,

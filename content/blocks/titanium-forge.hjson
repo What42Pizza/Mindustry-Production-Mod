@@ -13,10 +13,10 @@
 		}
 	},
 	"requirements": [
-		{"item": "steel"   , "amount": 50},
-		{"item": "titanium", "amount": 50},
-		{"item": "lead"    , "amount": 25},
-		{"item": "silicon" , "amount": 25}
+		{"item": "steel"   , "amount": 30},
+		{"item": "lead"    , "amount": 30},
+		{"item": "titanium", "amount": 20},
+		{"item": "silicon" , "amount": 20}
 	],
 	"size": 2,
 	"hasPower": true,

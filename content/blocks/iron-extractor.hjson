@@ -9,8 +9,8 @@
 	},
 	"requirements": [
 		{"item": "copper"  , "amount": 50},
-		{"item": "lead"    , "amount": 15},
-		{"item": "graphite", "amount": 10}
+		{"item": "lead"    , "amount": 25},
+		{"item": "graphite", "amount": 25}
 	],
 	"size": 2,
 	"hasPower": false,

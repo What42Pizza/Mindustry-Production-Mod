@@ -12,9 +12,10 @@
 		}
 	},
 	"requirements": [
-		{"item": "surge-alloy" , "amount": 75},
-		{"item": "phase-fabric", "amount": 50},
-		{"item": "thorium"     , "amount": 50}
+		{"item": "silicon"     , "amount": 30},
+		{"item": "thorium"     , "amount": 50},
+		{"item": "plastanium"  , "amount": 30},
+		{"item": "phase-fabric", "amount": 25}
 	],
 	"size": 5,
 	"tier": 4,

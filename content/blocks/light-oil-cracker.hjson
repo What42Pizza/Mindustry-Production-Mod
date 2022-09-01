@@ -4,14 +4,14 @@
 	"type": "GenericCrafter",
 	"outputLiquid": {"liquid": "petroleum", "amount": 15.0},
 	"consumes": {
-		"power": 1.0,
-		"liquid": {"liquid": "light-oil", "amount": 0.4167}
+		"power": 0.5,
+		"liquid": {"liquid": "light-oil", "amount": 0.5}
 	},
 	"requirements": [
-		{"item": "copper" , "amount": 50},
-		{"item": "steel"  , "amount": 25},
-		{"item": "plastic", "amount": 25},
-		{"item": "lead"   , "amount": 15}
+		{"item": "copper"   , "amount": 30},
+		{"item": "metaglass", "amount": 25},
+		{"item": "steel"    , "amount": 25},
+		{"item": "plastic"  , "amount": 10}
 	],
 	"size": 2,
 	"hasPower": true,

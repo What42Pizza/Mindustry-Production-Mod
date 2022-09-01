@@ -1,17 +1,18 @@
 TODO:
 
-Redo building recipes
+Required for leaving alpha:
 Redo researches
-Make asphault walls more purple and steel walls more blue
-Make the extractors rotate like the oil extractor?
 Re-add the functionality of useless files
 Make sure air unit factories take aluminum
+Redo example image
+
+Other:
+Add zones/maps/sectors
+Make the extractors rotate like the oil extractor?
+Make asphault walls more purple and steel walls more blue
 Update the readme
 Add more pages to the wiki
-Redo example image
-Add Ukrainian bundle
-Fix conveyor graphics (something is very wrong with my image editting software)  (it seems good?)
-Fix Base Infiltration? (probably not since I don't think there's any way for me to load it)
+Add English bundle (so others can translate?)
 Better graphics?
 More alternate recipes?
 

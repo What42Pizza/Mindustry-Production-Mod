@@ -4,7 +4,7 @@
 	"type": "GenericSmelter",
 	"outputItem": {"item": "aluminum", "amount": "1"},
 	"consumes": {
-		"power": 5.5,
+		"power": 3.0,
 		"items": {
 			"items": [
 				{"item": "aluminum-ore", "amount": 2}
@@ -12,10 +12,10 @@
 		}
 	},
 	"requirements": [
-		{"item": "copper"  , "amount": 25},
-		{"item": "graphite", "amount": 15},
-		{"item": "silicon" , "amount": 15},
-		{"item": "steel"   , "amount": 50}
+		{"item": "copper" , "amount": 25},
+		{"item": "lead"   , "amount": 25},
+		{"item": "steel"  , "amount": 25},
+		{"item": "silicon", "amount": 15}
 	],
 	"size": 2,
 	"hasPower": true,

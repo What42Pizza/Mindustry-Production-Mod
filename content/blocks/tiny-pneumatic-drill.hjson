@@ -9,7 +9,6 @@
 	"size": 1,
 	"tier": 3,
 	"drillTime": 423,
-	//"consumes": {},
 	"category": "production",
 	"research": "pneumatic-drill",
 	"drawMineItem": false

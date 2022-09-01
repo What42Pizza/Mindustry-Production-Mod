@@ -7,16 +7,16 @@
 		"power": 0.5,
 		"items": {
 			"items": [
-				{"item": "sludge-container", "amount": 3},
+				{"item": "sludge-container", "amount": 4},
 				{"item": "sand"            , "amount": 5}
 			]
 		}
 	},
 	"requirements": [
-		{"item": "copper"   , "amount": 50},
-		{"item": "lead"     , "amount": 25},
-		{"item": "plastic"  , "amount": 25},
-		{"item": "metaglass", "amount": 25}
+		{"item": "copper"  , "amount": 25},
+		{"item": "lead"    , "amount": 25},
+		{"item": "titanium", "amount": 25},
+		{"item": "plastic" , "amount": 10}
 	],
 	"size": 2,
 	"hasPower": true,

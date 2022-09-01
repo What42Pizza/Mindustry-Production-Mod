@@ -1,10 +1,13 @@
 copper           general building
-lead             pretty freaking random
+lead             pretty freaking random (used to pad out recipes?)
 metaglass        liquids
-graphite         mid-to-late buldings; things that would have small parts
-titanium         things that need to be string
-thorium          advanced things
-silicon          complicated things
+graphite         mid-to-late buldings; things w/ small parts
+steel            strong, cheap
+titanium         strong, advanced
+aluminum         flying
+thorium          advanced
+silicon          complicated
+plastic          flying, advanced
 plastanium       late-game, exoitc
 surge alloy      late-game, exciting
 phase fabric     late-game, mystical

@@ -4,7 +4,7 @@
 	"type": "GenericCrafter",
 	"outputItem": {"item": "titanium", "amount": 1},
 	"consumes": {
-		"power": 0.75,
+		"power": 0.5,
 		"items": {
 			"items": [
 				{"item": "sand", "amount": 50}
@@ -13,7 +13,7 @@
 	},
 	"requirements": [
 		{"item": "copper"  , "amount": 50},
-		{"item": "lead"    , "amount": 15},
+		{"item": "lead"    , "amount": 25},
 		{"item": "titanium", "amount": 20}
 	],
 	"size": 2,

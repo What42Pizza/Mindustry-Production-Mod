@@ -8,7 +8,7 @@
 		"liquid": {"liquid": "water", "amount": 0.05}
 	},
 	"requirements": [
-		{"item": "steel"   , "amount": 50},
+		{"item": "steel"   , "amount": 25},
 		{"item": "lead"    , "amount": 25},
 		{"item": "graphite", "amount": 25}
 	],

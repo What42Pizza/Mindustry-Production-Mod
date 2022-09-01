@@ -12,8 +12,9 @@
 	},
 	"requirements": [
 		{"item": "copper"   , "amount": 50},
-		{"item": "lead"     , "amount": 25},
-		{"item": "metaglass", "amount": 25}
+		{"item": "metaglass", "amount": 25},
+		{"item": "steel"    , "amount": 25},
+		{"item": "silicon"  , "amount": 25}
 	],
 	"size": 2,
 	"hasPower": true,

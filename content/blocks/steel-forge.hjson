@@ -13,9 +13,10 @@
 		}
 	},
 	"requirements": [
-		{"item": "copper" , "amount": 50},
-		{"item": "lead"   , "amount": 25},
-		{"item": "silicon", "amount": 25}
+		{"item": "copper"  , "amount": 30},
+		{"item": "lead"    , "amount": 30},
+		{"item": "graphite", "amount": 25},
+		{"item": "silicon" , "amount": 15}
 	],
 	"size": 2,
 	"hasPower": true,

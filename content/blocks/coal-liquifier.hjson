@@ -13,11 +13,10 @@
 		"liquid": {"liquid": "water", "amount": 0.05}
 	},
 	"requirements": [
-		{"item": "copper"  , "amount": 50},
+		{"item": "copper"  , "amount": 25},
 		{"item": "lead"    , "amount": 25},
-		{"item": "titanium", "amount": 25},
-		{"item": "plastic" , "amount": 25},
-		{"item": "graphite", "amount": 10}
+		{"item": "steel"   , "amount": 25},
+		{"item": "graphite", "amount": 15}
 	],
 	"size": 2,
 	"hasPower": true,

@@ -11,7 +11,7 @@
 		}
 	},
 	"requirements": [
-		{"item": "copper", "amount": 50},
+		{"item": "copper", "amount": 25},
 		{"item": "lead"  , "amount": 15}
 	],
 	"size": 1,
