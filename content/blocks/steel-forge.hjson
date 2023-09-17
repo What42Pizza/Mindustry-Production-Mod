@@ -1,7 +1,7 @@
 {
 	"name": "Steel Forge",
 	"description": "Creates steel from iron and coal.",
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"outputItem": {"item": "steel", "amount": "2"},
 	"consumes": {
 		"power": 0.75,

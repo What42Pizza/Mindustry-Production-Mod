@@ -1,7 +1,7 @@
 {
 	"name": "Sludge Burner",
 	"description": "Burns off excess sludge created from oil distillation.",
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"consumes": {
 		"power": 1.0,
 		"items": {
