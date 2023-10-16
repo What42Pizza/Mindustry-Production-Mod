@@ -1,7 +1,7 @@
 {
 	"name": "Light Oil Burner",
 	"description": "Burns off excess light oil created from oil distillation.",
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"consumes": {
 		"power": 1.0,
 		"liquid": {"liquid": "light-oil", "amount": 0.25}

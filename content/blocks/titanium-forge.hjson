@@ -1,7 +1,7 @@
 {
 	"name": "Titanium Forge",
 	"description": "Creates titanium from lead and graphite.",
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"outputItem": {"item": "titanium", "amount": "1"},
 	"consumes": {
 		"power": 0.75,

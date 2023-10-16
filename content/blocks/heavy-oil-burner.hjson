@@ -1,7 +1,7 @@
 {
 	"name": "Heavy Oil Burner",
 	"description": "Burns off excess heavy oil created from oil distillation.",
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"consumes": {
 		"power": 1.0,
 		"liquid": {"liquid": "heavy-oil", "amount": 0.25}
