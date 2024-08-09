@@ -1,5 +1,12 @@
 # Mindustry Production Mod A4.4.3
 ![GitHub Logo](/sprites/git/example.png)
+
+---
+
+# NOTE: I don't maintain this anymore, but you can check out [JugglerMaster's Fork](https://github.com/JugglerMaster/Mindustry-Production-Mod)
+
+---
+
 This is a mod for Mindustry that gives you iron, steel, oil processing, and alternative ways of generating materials like titanium and thorium. This mod also makes the end-game sightly harder.
 
 There are two ways to add this mod to your game.
